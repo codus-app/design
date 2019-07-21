@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "44ADE32F-6F17-4970-B5DD-5439B0CC6F6B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FFE72EE7-6BD1-4329-831A-446EEEBB9ED4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07EECAFA-AFEF-4540-B53A-AEED89AD141B",
+    "height": 16,
+    "width": 78,
+    "x": 0,
+    "y": 26
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "00B4C157-97DC-4030-BADC-6D2E0EDFE168"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EA7775F6-6DCA-4651-B51A-2518F6FA5898"
+    },
+    {
+      "class": "text",
+      "id": "0D1561E6-CF34-4392-9C99-A8334ABA4F61"
+    }
+  ],
+  "name": "Due date",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "1B25AF96-287F-4A4E-932C-F9D6F2F9E84A",
+      "opacity": 0.3958798363095238
+    },
+    "do_objectID": "F10D3965-C7BB-4168-A06A-373C3AB3E71C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F2F27803-899D-421D-9922-CD4B40103C3E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "53576782-9E20-4E59-B382-04E72EB7B27F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "832F310F-9EE6-412B-A8E6-D87F346E7EB7",
+    "height": 60,
+    "width": 60.17142857142858,
+    "x": 25.07142857142857,
+    "y": 30.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atoms / Blank avatar (dark)",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A26EC99D-D8AD-4075-9E1D-742ACE319FB1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F6315209-AD34-4617-A82C-378AC82A37FA",
+  "verticalSpacing": 0
+}

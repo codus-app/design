@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "663BF0A0-7424-46EE-B5DC-972AA1278086",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACEEF40F-F848-4EF8-B810-97FD52D363CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "C5589A80-A7E2-47CF-A788-84276EE13F5B",
+    "do_objectID": "A4C41C5A-0B3B-42F0-8C74-F318F73B1B0D"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "468BD2E5-18BB-4CFD-8DE2-B0BD24E598BA",
+    "height": 15,
+    "width": 15.07499999999999,
+    "x": 171.855,
+    "y": 42
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Delete button",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C81E5C03-ECAB-4920-BF6C-7E7D41DBE355",
+      "overrideName": "18D8DE36-8CB4-4303-B2C1-3FD0447B3FCB_symbolID",
+      "value": "4F39D593-BF79-43EB-AEB1-B1CBACE06E43"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "6EDDAE39-FF18-4BA9-B0F2-55946F970C62",
+      "opacity": 0.6987537202380952
+    },
+    "do_objectID": "54025602-95B5-44C1-B724-7FEB83070E02",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6369FAAA-A395-4707-81A6-63B0EB3B17C3",
+  "verticalSpacing": 0
+}

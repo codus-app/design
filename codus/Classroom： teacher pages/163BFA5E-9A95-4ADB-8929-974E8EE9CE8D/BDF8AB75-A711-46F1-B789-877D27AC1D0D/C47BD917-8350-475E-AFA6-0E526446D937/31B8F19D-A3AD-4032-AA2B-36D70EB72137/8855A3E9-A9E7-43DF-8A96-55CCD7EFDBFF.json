@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8855A3E9-A9E7-43DF-8A96-55CCD7EFDBFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "420001C6-6B61-4943-9E39-98D8C42E8DFD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "913B3199-92E0-405C-B29D-D349DCB563AA",
+    "do_objectID": "FD7A606F-DFAF-4345-B9FD-80BCD09817BA"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "70D53D90-B0DC-432B-89B2-D913F70B6C8D",
+    "height": 30,
+    "width": 130,
+    "x": 0,
+    "y": 65
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E1A3373-F83B-4332-8741-920213FF78E2",
+      "overrideName": "958A884A-779E-45FD-80EC-2810F96F9916_stringValue",
+      "value": "Remove"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7D17FA25-C793-43D8-9449-AF036F677B7D",
+      "overrideName": "72694346-F242-4EB3-B454-BAA71B10D491_symbolID",
+      "value": "258BFEBB-97EA-444A-93B8-B00908369DEA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0CB76D19-1D9D-4CC0-9082-5A55C79E5887",
+      "overrideName": "72694346-F242-4EB3-B454-BAA71B10D491/90F982F8-99DD-4ADE-B826-BF031DEC792E_symbolID",
+      "value": "2651116C-CA75-4D0D-814B-BA2463036101"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "61013B27-005C-4784-86B9-475A1FCAC73C",
+      "opacity": 0.7989211309523809
+    },
+    "do_objectID": "1EF06227-7EC8-4AC7-8E82-C24779340581",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CF926207-E04F-4E7A-8942-440B9BAD5AC1",
+  "verticalSpacing": 0
+}

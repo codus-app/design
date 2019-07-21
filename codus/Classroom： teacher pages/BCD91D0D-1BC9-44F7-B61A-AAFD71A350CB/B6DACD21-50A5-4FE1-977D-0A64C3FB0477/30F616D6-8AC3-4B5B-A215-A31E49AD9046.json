@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "30F616D6-8AC3-4B5B-A215-A31E49AD9046",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D88385C-0E92-4F49-ADE9-10051BBB1BF3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "36492B6B-5125-4223-B035-29214361D9BE",
+    "height": 105,
+    "width": 301,
+    "x": 0,
+    "y": 642
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Student 7",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43C41869-3EF4-413C-993F-EB1F878D304E",
+      "overrideName": "A978AFF9-75C5-49F2-AC75-0175ADD7ACAB_stringValue",
+      "value": "Karlien Nijhuis"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "80F6F107-D628-461A-8E85-5ECA9D271ACE",
+      "overrideName": "D77DACAA-162E-4848-B92E-7D9CB5A05195_stringValue",
+      "value": "username"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6ABB1A10-2BD4-4AC4-B842-178C64F0802A",
+      "overrideName": "00D8D7DA-AE36-48ED-872B-B34B461BAA8A_stringValue",
+      "value": "45%"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A92B0A7-378E-4169-B50E-33D128D937F5",
+      "overrideName": "0E39D392-2992-48C6-9D80-F0DCBDC74CF1_stringValue",
+      "value": "3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1CFF01F2-42AF-4DAA-A788-993F10C40FAA",
+      "overrideName": "B567EEFD-54C4-4893-A3B7-15361FC5EC23_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/aecc8c40fcde3aac1556f692608df997fe3400d7.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE5D6AAD-47EE-4B78-BBE3-78E5EFBB47BB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CC257E63-9268-4713-A97F-1FFEE69C7133",
+  "verticalSpacing": 0
+}

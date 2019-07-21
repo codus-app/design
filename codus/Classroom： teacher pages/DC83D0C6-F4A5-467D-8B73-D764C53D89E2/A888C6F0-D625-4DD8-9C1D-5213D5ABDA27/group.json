@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A888C6F0-D625-4DD8-9C1D-5213D5ABDA27",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "997C9757-69C2-43E0-BCEE-7EA8297952DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5399BD49-0380-4BAD-BE47-45FA6A81CA31",
+    "height": 300,
+    "width": 411,
+    "x": 775,
+    "y": 500
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D75ED3B2-E756-49E1-83AB-6F45DC04CF4A"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3EC1E6A8-B755-4D39-B674-03C4C45AB8EE"
+    },
+    {
+      "class": "text",
+      "id": "1DFB71AE-32F5-4AED-8DA4-D038E6F1D566"
+    }
+  ],
+  "name": "Trophy Case",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E600484A-D1F3-466F-A228-0C4060FFEE63",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "10753103-7F69-487D-BF90-18CF5356D39C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3E0EA8C3-8BFF-4326-BD1F-75E5BB149879",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "38B6B26A-A6A2-4418-BAA3-638C36CCD49D",
+    "height": 53,
+    "width": 277,
+    "x": 125,
+    "y": 202
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "47A657DE-6429-43AB-94FC-108F6B1DBC4B"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C71E259F-9C00-41FF-A569-FBAC5034E0C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "076380C2-230C-4A97-9523-72167926D533"
+    }
+  ],
+  "name": "Invite code",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D661AA7E-8E96-4611-9548-17280E8B08A8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

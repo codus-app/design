@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C99785B-EC3D-41FE-95E5-3DC03AA2CC00",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E1F6BDEE-2F6D-4AAD-AB94-24931E08927D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B30C0876-5885-4A6C-8CC7-5EF0FA5809F4",
+    "height": 26,
+    "width": 86.12835820895526,
+    "x": 209.3119402985075,
+    "y": 27
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Profile chip Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7CDF406A-F157-4479-924C-788CA0862761",
+      "overrideName": "FC5D5217-7254-4E77-872F-BF721CB6904F_stringValue",
+      "value": "Sophie B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CEB7B554-BE0E-4C61-8624-395666814DA1",
+      "overrideName": "F47AE4C9-40ED-4185-91F8-A2653051515D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/def94b03a2e996156c917520abbff413c3a2dd5a.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ADA0F28D-9D17-4D64-9FA8-71EC0166FD08",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE400266-CC6B-4A59-A00B-5B6C437CB286",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "97127160-0EBD-4AD6-B8A8-58B85C5C256B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46F4CB3A-8A6E-4C0A-86C4-92C984351C95",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1CC4F78D-DC52-4186-99E4-C98124D4D603",
+    "height": 26,
+    "width": 103.1537313432836,
+    "x": 97.14477611940299,
+    "y": 27
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Profile chip Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7CDF406A-F157-4479-924C-788CA0862761",
+      "overrideName": "FC5D5217-7254-4E77-872F-BF721CB6904F_stringValue",
+      "value": "Mbah Enow"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CEB7B554-BE0E-4C61-8624-395666814DA1",
+      "overrideName": "F47AE4C9-40ED-4185-91F8-A2653051515D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/99e27ff5381f87feb308e505e13e0a5384b45316.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DB03505B-E2C9-45A3-B447-794DBE04A705",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE400266-CC6B-4A59-A00B-5B6C437CB286",
+  "verticalSpacing": 0
+}

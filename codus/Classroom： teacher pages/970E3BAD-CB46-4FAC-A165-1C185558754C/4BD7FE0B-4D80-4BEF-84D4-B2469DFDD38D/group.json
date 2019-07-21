@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4BD7FE0B-4D80-4BEF-84D4-B2469DFDD38D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 275,
+    "width": 436,
+    "x": 320,
+    "y": 385
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A52031C9-00AC-4251-BADF-676B7E2C3E2D"
+    },
+    {
+      "class": "group",
+      "id": "3113349B-01E2-4293-8053-04E7D2C35C29"
+    },
+    {
+      "class": "group",
+      "id": "3FF6B8DB-4AD2-4FDD-8633-DF18838D3BD6"
+    },
+    {
+      "class": "group",
+      "id": "FD5BA924-70E2-4656-94BD-8BBD5B05B416"
+    },
+    {
+      "class": "group",
+      "id": "5FE30B2B-7DF8-4181-9AE5-0362384A1BC5"
+    },
+    {
+      "class": "group",
+      "id": "7A7F9278-1B9A-4016-8C27-02DA06AE4CAC"
+    },
+    {
+      "class": "group",
+      "id": "1C26B5B9-D662-4EF1-9BE2-062F82567B4A"
+    },
+    {
+      "class": "group",
+      "id": "3F288069-BD3A-4350-9F29-13EB30BC8DAD"
+    },
+    {
+      "class": "group",
+      "id": "CA57E537-EF93-4DCA-947C-FF4EC46EAD6D"
+    },
+    {
+      "class": "group",
+      "id": "D82918AD-AE81-40BC-9702-3959FEDB0161"
+    },
+    {
+      "class": "text",
+      "id": "0826C019-CBC5-4ABB-B3AA-F466E43ADD18"
+    },
+    {
+      "class": "text",
+      "id": "79696E59-C0E6-4C3F-BEA6-0A5A548D1043"
+    }
+  ],
+  "name": "Students",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

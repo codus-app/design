@@ -1,0 +1,100 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1294117647058823,
+    "do_objectID": "4B33F542-B280-4224-B00A-7708C09B7340",
+    "green": 0.1176470588235294,
+    "red": 0.1176470588235294
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "575AEE62-97B5-4182-B63C-79D8E4D5793E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0CB0B434-ABE4-4B3A-827C-2843C0494448",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85415893-5E97-4971-BB33-DDDD117EF8E3",
+    "height": 264,
+    "width": 475,
+    "x": 2856,
+    "y": 39
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FDFF00C1-0D7E-4BFE-AEDD-33D2ACAE6A48"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D65404F0-08A3-44B8-A2B4-A4BC2208534B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9B3BC15D-92B9-47C9-8EF9-025E054E1B57"
+    },
+    {
+      "class": "group",
+      "id": "7CF93621-A1ED-4085-A410-656EE1551FC8"
+    },
+    {
+      "class": "group",
+      "id": "5A24B73E-694B-4623-985A-DB0D509D4977"
+    },
+    {
+      "class": "group",
+      "id": "4B945593-FA0E-451C-BE6C-4A578264C3D4"
+    },
+    {
+      "class": "text",
+      "id": "35DF9F62-A5DE-4599-B26B-BC14CAECC8C0"
+    }
+  ],
+  "name": "Invite students modal",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3DC2AB2B-5510-4BE7-BF22-C736218942D8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B88DED3C-194C-4854-8592-E0AC8F8C8914",
+    "guides": [
+    ]
+  }
+}

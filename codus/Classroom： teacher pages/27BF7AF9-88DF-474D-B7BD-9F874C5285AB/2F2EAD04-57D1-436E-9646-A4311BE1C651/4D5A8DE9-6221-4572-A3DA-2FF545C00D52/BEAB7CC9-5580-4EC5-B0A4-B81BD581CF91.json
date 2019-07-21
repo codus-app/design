@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BEAB7CC9-5580-4EC5-B0A4-B81BD581CF91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78BD986E-4A66-4BE8-89FF-561EF89EE19A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "791B693C-2919-4E27-ACC4-E53748CCBE62",
+    "height": 26,
+    "width": 124.1850746268657,
+    "x": 171.255223880597,
+    "y": 65
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Profile chip Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7CDF406A-F157-4479-924C-788CA0862761",
+      "overrideName": "FC5D5217-7254-4E77-872F-BF721CB6904F_stringValue",
+      "value": "Alexandre Paiva"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CEB7B554-BE0E-4C61-8624-395666814DA1",
+      "overrideName": "F47AE4C9-40ED-4185-91F8-A2653051515D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0206952e77071ed9d638cb5f77397a4c7878dc19.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0333D652-2172-48E5-8E32-41F6E12E870D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE400266-CC6B-4A59-A00B-5B6C437CB286",
+  "verticalSpacing": 0
+}

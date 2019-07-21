@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6C739EE6-3C99-41A9-996C-A22930A5E5E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "04FD373D-7257-4F61-87CF-76510B86F21F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "543C212D-6384-4269-B12B-3A9EDD137084",
+    "height": 35,
+    "width": 111.1441558441558,
+    "x": 280.3636363636363,
+    "y": 33
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Problem",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BCFFFC50-AB36-4622-921F-B547F77230C0",
+      "overrideName": "A1C64E84-5083-44F7-BE61-A1AA1C347124_stringValue",
+      "value": "LieDetector"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "95290AEE-1D04-456F-AA0E-426C97DC0D59",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "92A24F73-2355-45F9-A21F-7F95B6FD4F36",
+  "verticalSpacing": 0
+}

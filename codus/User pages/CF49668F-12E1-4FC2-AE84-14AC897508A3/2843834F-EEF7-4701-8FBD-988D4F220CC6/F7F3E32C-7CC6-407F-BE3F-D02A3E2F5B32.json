@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F7F3E32C-7CC6-407F-BE3F-D02A3E2F5B32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3280B0EF-6135-4AE8-A53C-AA0F925C5DB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "B4286622-5278-4DEF-9D1B-CDA1A61CE9F3",
+    "do_objectID": "F8046299-C66A-4255-908E-CA3B4EC0494A"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "71E7E86F-CBC4-43F5-94A0-7A6CB8E16D94",
+    "height": 30,
+    "width": 130,
+    "x": 0,
+    "y": 35
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E1A3373-F83B-4332-8741-920213FF78E2",
+      "overrideName": "958A884A-779E-45FD-80EC-2810F96F9916_stringValue",
+      "value": "Settings"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B39E779-0748-4EAA-A09A-58CFD31242FD",
+      "overrideName": "2F3C2573-3E7E-4F2A-9AB2-4458532D2A6C_symbolID",
+      "value": "A9149E7B-72C2-4F00-860F-90A0C1C8AC77"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A12FEB5-2147-434D-B22C-5CDA9EA149C1",
+      "overrideName": "72694346-F242-4EB3-B454-BAA71B10D491_symbolID",
+      "value": "CCC4A9E3-DD83-453A-98CC-FCFEE4DAB555"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "67A592C0-6F01-4CAF-91A0-64B8FD65F7BD",
+      "overrideName": "72694346-F242-4EB3-B454-BAA71B10D491/37C699EB-B5A1-4AD5-BA06-6B227C317629_symbolID",
+      "value": "2651116C-CA75-4D0D-814B-BA2463036101"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "BE3B4241-2052-436A-AFDB-B4886531B3DA",
+      "opacity": 0.7989211309523809
+    },
+    "do_objectID": "29A6437C-E07D-4B0E-BC36-4551F3D35FD0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CF926207-E04F-4E7A-8942-440B9BAD5AC1",
+  "verticalSpacing": 0
+}

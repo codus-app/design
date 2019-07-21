@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3AB2A93D-5110-44D9-BA6A-AD5E53472257",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "515E4C9C-9024-4040-80F0-717DF4E659BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56D973D3-2F2A-46E7-A802-90AF23BAEE6E",
+    "height": 35,
+    "width": 102.1324675324675,
+    "x": 289.3753246753246,
+    "y": 33
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Problem",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83A8E9B6-6906-427C-8315-4A8D26C37F21",
+      "overrideName": "A1C64E84-5083-44F7-BE61-A1AA1C347124_stringValue",
+      "value": "Telescope"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47F35FAA-2565-45DD-B94E-C2AEB8184903",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "92A24F73-2355-45F9-A21F-7F95B6FD4F36",
+  "verticalSpacing": 0
+}

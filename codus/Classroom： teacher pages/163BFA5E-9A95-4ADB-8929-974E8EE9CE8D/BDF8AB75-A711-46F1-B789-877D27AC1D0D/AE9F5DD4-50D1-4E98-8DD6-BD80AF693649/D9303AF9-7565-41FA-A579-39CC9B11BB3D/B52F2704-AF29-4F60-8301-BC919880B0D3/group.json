@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B52F2704-AF29-4F60-8301-BC919880B0D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2198F625-F361-4557-8538-6E25CD6A0D74",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AD15DA29-E8C7-448A-81BD-BC5375ED465E",
+    "height": 20,
+    "width": 194.3730769230769,
+    "x": 0,
+    "y": 34
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1B332750-3A96-4CD0-81EC-56DDBD7D118B"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "00CC4457-A51D-4C46-A368-E4C222C77519"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8A84659-AB35-4686-A151-45E181F4FA17"
+    }
+  ],
+  "name": "AP Practice",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "9549D88B-1798-4EDE-B00C-F6DE1FCAD5B7",
+      "opacity": 0.4000000059604645
+    },
+    "do_objectID": "16A1C94F-27A4-4F9E-BC7F-9CF792119F6D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

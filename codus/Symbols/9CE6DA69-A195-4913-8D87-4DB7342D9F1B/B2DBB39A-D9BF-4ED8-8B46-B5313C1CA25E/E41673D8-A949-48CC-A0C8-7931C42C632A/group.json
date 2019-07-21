@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E41673D8-A949-48CC-A0C8-7931C42C632A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 140,
+    "width": 189,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5B228D46-3264-4DA8-A41C-13840D95F263"
+    },
+    {
+      "class": "group",
+      "id": "98A90BAD-5959-45E8-BB47-71CADFC59ABD"
+    },
+    {
+      "class": "group",
+      "id": "44B296AA-AC3F-44AA-9042-E4F180B2EBD3"
+    },
+    {
+      "class": "group",
+      "id": "CD252B8C-61AC-48A3-8D63-7B9D51D04E87"
+    },
+    {
+      "class": "group",
+      "id": "A11EEF8D-E67E-459F-AF5F-2DAFB126B6CD"
+    }
+  ],
+  "name": "“Classroom”",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

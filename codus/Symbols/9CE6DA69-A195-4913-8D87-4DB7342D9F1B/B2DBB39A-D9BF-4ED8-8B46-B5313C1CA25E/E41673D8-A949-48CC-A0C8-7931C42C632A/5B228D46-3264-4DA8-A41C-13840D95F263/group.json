@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B228D46-3264-4DA8-A41C-13840D95F263",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C03789A2-B07D-4758-88E1-A2D09250D6B1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1068313F-6481-47F0-9CB4-EA72A07535DC",
+    "height": 18,
+    "width": 172,
+    "x": 1,
+    "y": 122
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "43830B1C-A40F-435D-A2E0-41BE1A6B88DA"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BBE538E2-FCB6-428A-A8B8-067059949002"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3F77AD1-F96E-4832-A6B3-1445FCF889C6"
+    }
+  ],
+  "name": "Reports",
+  "nameIsFixed": true,
+  "originalObjectID": "3A3AEED2-0A64-4E58-A6D1-1640758D272B",
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3A30550-04FB-4075-87E0-F94465102307",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

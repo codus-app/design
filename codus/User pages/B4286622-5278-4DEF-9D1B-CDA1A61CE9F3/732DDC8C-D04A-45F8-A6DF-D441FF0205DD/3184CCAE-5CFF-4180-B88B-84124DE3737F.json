@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3184CCAE-5CFF-4180-B88B-84124DE3737F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9657647C-7CDF-48A7-A78F-4266A07EED85",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A46D704-4AEC-43D4-A8AE-0C95BFA50674",
+    "height": 53,
+    "width": 205,
+    "x": 260,
+    "y": 60
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Twitter account",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "16B8A049-A411-4B56-81EC-0130C385A9B7",
+      "overrideName": "9602789A-29B3-48E5-835A-48D5A535D8DE_stringValue",
+      "value": "twitter.com/username"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6E696F10-9D79-44F5-B7B3-A8AC1279D526",
+      "overrideName": "220EFAEE-C1F6-41D2-8ADD-B02B6A8F3005_stringValue",
+      "value": "Twitter account"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "71A85EDA-D66B-499F-88EC-E8C1D5EE526D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E8A7E8E7-CB69-4076-94D7-C2167E12A6C0",
+  "verticalSpacing": 0
+}

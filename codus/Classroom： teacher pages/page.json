@@ -1,0 +1,194 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "39C67B2F-6728-452A-978B-AEC499DA0E81",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -579,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "DC83D0C6-F4A5-467D-8B73-D764C53D89E2"
+    },
+    {
+      "class": "text",
+      "id": "041FD5BF-50F1-428E-AEA1-6AC4DDA411D9"
+    },
+    {
+      "class": "artboard",
+      "id": "C5D0A45F-359F-4C64-B2A9-328BFE3913A2"
+    },
+    {
+      "class": "text",
+      "id": "969088AF-BEAA-449E-AEA7-C2EF139BA762"
+    },
+    {
+      "class": "text",
+      "id": "C10A678A-4F57-455B-AFE8-F17039B15FC1"
+    },
+    {
+      "class": "artboard",
+      "id": "9F8FC244-B130-4974-9AC6-035A4F314FC4"
+    },
+    {
+      "class": "text",
+      "id": "7FA752C4-4F74-48F1-A15B-348B708F7B88"
+    },
+    {
+      "class": "artboard",
+      "id": "4BB58EFB-D4DD-4FC1-9BEC-52992149C83B"
+    },
+    {
+      "class": "artboard",
+      "id": "F5F31658-2F3F-4172-95FA-76B8838B2AA1"
+    },
+    {
+      "class": "artboard",
+      "id": "27BF7AF9-88DF-474D-B7BD-9F874C5285AB"
+    },
+    {
+      "class": "artboard",
+      "id": "0E344ED6-FCBB-4C2D-B26F-3EE334A2553F"
+    },
+    {
+      "class": "artboard",
+      "id": "A474E227-C6FE-485B-B9FF-E2FF7E167496"
+    },
+    {
+      "class": "artboard",
+      "id": "5DC3F30E-E427-42B7-85CB-802A87644BD2"
+    },
+    {
+      "class": "artboard",
+      "id": "913B3199-92E0-405C-B29D-D349DCB563AA"
+    },
+    {
+      "class": "artboard",
+      "id": "66BE4F96-8C45-4C03-8B43-E515E3C15919"
+    },
+    {
+      "class": "text",
+      "id": "9604D85A-5D36-47FF-A6D6-F8D8625D7546"
+    },
+    {
+      "class": "artboard",
+      "id": "163BFA5E-9A95-4ADB-8929-974E8EE9CE8D"
+    },
+    {
+      "class": "artboard",
+      "id": "BCD91D0D-1BC9-44F7-B61A-AAFD71A350CB"
+    },
+    {
+      "class": "artboard",
+      "id": "59D195CF-C81D-4F95-8C87-22F74C5AF8FF"
+    },
+    {
+      "class": "artboard",
+      "id": "0F04B779-A8F3-41FA-B570-83D49CD33AE9"
+    },
+    {
+      "class": "artboard",
+      "id": "43EC6116-A66C-402E-9CCF-40870439443C"
+    },
+    {
+      "class": "artboard",
+      "id": "38E9A684-C997-467C-8B83-5B24F78289EE"
+    },
+    {
+      "class": "artboard",
+      "id": "7D789989-7B3B-4843-B7AD-EA48D31A961D"
+    },
+    {
+      "class": "artboard",
+      "id": "575AEE62-97B5-4182-B63C-79D8E4D5793E"
+    },
+    {
+      "class": "text",
+      "id": "4158C1C4-49EC-44D0-BB33-C744F0087E3C"
+    },
+    {
+      "class": "artboard",
+      "id": "970E3BAD-CB46-4FAC-A165-1C185558754C"
+    },
+    {
+      "class": "artboard",
+      "id": "35C1136D-E5A0-4CDF-AEF8-E64CB1011F5C"
+    },
+    {
+      "class": "artboard",
+      "id": "C5589A80-A7E2-47CF-A788-84276EE13F5B"
+    },
+    {
+      "class": "artboard",
+      "id": "B240101F-0154-46F7-9AD3-2861EA4B011E"
+    },
+    {
+      "class": "artboard",
+      "id": "1CFB1CA7-D306-46A4-A0A5-4159E9DDB9B2"
+    },
+    {
+      "class": "artboard",
+      "id": "5082A3E5-410C-4907-8D0C-BE8C0FF720EC"
+    },
+    {
+      "class": "text",
+      "id": "B9C9CF2A-1553-4E61-AE40-447C2CD71706"
+    },
+    {
+      "class": "artboard",
+      "id": "EB56D006-C4DE-41FB-B2C8-077D7205B2FC"
+    }
+  ],
+  "name": "Classroom: teacher pages",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -497,
+    "guides": [
+    ]
+  }
+}

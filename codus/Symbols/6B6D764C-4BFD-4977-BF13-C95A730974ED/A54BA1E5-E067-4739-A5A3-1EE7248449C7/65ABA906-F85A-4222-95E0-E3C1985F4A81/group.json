@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "65ABA906-F85A-4222-95E0-E3C1985F4A81",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A42EF10E-7667-4C68-ACBB-9C312250FE3F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "67F836B1-8F4A-45F1-8961-F15C6A7AE8B6",
+    "height": 100,
+    "width": 100,
+    "x": 290,
+    "y": 25
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9E2EF53F-B44D-4DF9-82F5-8CB76746F0FA"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "20A2CBA4-4F31-4E03-875B-BC084C86EFF2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "48243E6D-39CA-4120-AB11-340175C9529D"
+    }
+  ],
+  "name": "atoms / Blank avatar (light)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ED5DEFA0-9D95-43AA-A7BE-C111924BA358",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

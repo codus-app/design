@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B6DACD21-50A5-4FE1-977D-0A64C3FB0477",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "153B9155-754E-4D90-9CC6-5D3F3522AC2B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4B47B41B-F53E-4884-BC76-700289C32CCE",
+    "height": 747,
+    "width": 301,
+    "x": 317,
+    "y": 115
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FD2AF5EB-11B3-45AC-8464-3148AC36EA33"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "30F616D6-8AC3-4B5B-A215-A31E49AD9046"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4086AAFB-7516-4D75-AEB8-CCDCE12B6D17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABB7C90F-D330-48AA-99CF-5926EA85F7D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "825EB9DC-234B-4CCD-AE11-E6672D52998C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9CC81D2-DBD7-4827-B310-0B9167D0B27C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BD92C43-8356-4337-8A28-722FE491D4B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A912627-3E10-4C97-BDA8-DB714801AD02"
+    }
+  ],
+  "name": "Students list",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "727F936C-2E44-4525-A2C9-B6082E83EDC2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

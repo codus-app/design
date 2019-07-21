@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A912627-3E10-4C97-BDA8-DB714801AD02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78657C06-BEB3-472E-9BD1-063C2AAE3DE8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA516D31-E09D-4FA1-817D-95DC4B87CD5E",
+    "height": 105,
+    "width": 301,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Student 1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F1F725D8-CA9E-4EE6-8178-33EA3D495C54",
+      "overrideName": "0E39D392-2992-48C6-9D80-F0DCBDC74CF1_stringValue",
+      "value": "12"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "533A6A32-1497-4F36-904B-79AC65F34723",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CC257E63-9268-4713-A97F-1FFEE69C7133",
+  "verticalSpacing": 0
+}

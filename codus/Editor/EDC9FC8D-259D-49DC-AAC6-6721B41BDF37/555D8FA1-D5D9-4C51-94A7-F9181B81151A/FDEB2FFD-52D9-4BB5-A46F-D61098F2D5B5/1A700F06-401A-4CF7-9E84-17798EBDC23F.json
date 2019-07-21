@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A700F06-401A-4CF7-9E84-17798EBDC23F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "945796AB-4DAF-4E4E-B91A-7E940AC2BCAC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3410DC40-39CE-4955-A317-2C471CB3CC39",
+    "height": 35,
+    "width": 325,
+    "x": 0,
+    "y": 26
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Test case",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF2CEA95-E3A8-4B00-8800-9053CEBFBF6C",
+      "overrideName": "D516F933-432A-4870-B657-BC7548FE7F0E_stringValue",
+      "value": "main(\"cat\", \"dog\") -> \"cat dog\""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F585BF26-C5EB-477B-90B5-44BE398E428C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6083A37F-F9BB-40BF-932C-F9BA31A18997",
+  "verticalSpacing": 0
+}

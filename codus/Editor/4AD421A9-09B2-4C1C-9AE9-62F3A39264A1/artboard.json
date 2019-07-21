@@ -1,0 +1,87 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4A006ED5-8244-4FE3-89FD-E0F640326D86",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4AD421A9-09B2-4C1C-9AE9-62F3A39264A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2066999D-8F36-4396-B8E1-67092635D068",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF8C043A-51D4-47AF-88E5-A36CEEB0013C",
+    "height": 850,
+    "width": 1280,
+    "x": 3819,
+    "y": 1645
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "604CD96E-0385-4913-827F-7806A67A0D4F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "ACEB61EF-E7B7-43D5-9963-D98D841785F0"
+    },
+    {
+      "class": "group",
+      "id": "40729735-3F2E-4DF8-A6A9-383AB63C6D7C"
+    }
+  ],
+  "name": "screens/editor/Test cases - Tests out of date",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2500D116-7F8A-466F-B19D-5E34D062BA97",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FDF7606C-A629-48B8-AB47-F07855E67902",
+    "guides": [
+    ]
+  }
+}

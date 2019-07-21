@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1793B0D7-FD06-496B-A17D-AB1CF1884490",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13095985-5B91-4217-9625-668D5DE2557F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "872DAACB-C32F-4AC2-A8F0-5C0BB4912252",
+    "height": 35,
+    "width": 88.1142857142857,
+    "x": 325.4220779220778,
+    "y": 78
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Problem",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3933C1FF-C4B4-4159-B46B-E0895211A914",
+      "overrideName": "A1C64E84-5083-44F7-BE61-A1AA1C347124_stringValue",
+      "value": "Fishing"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB65A56D-E53C-40E6-93CD-2C4BD461A685",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "92A24F73-2355-45F9-A21F-7F95B6FD4F36",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "51ECE265-7694-4E9A-A624-829E17F38851",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E90C9E2-1E1F-453D-987A-A15861BE8D35",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1CCDD9DF-5342-44AF-9526-3EC8DDF74B49",
+    "height": 38,
+    "width": 38.152,
+    "x": 27.108,
+    "y": 31
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atoms/progress/Radial outline progress",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "21CA8B14-051B-49B6-99D5-623C568CFE51",
+      "overrideName": "E30C0D67-8C5D-40CF-A1EA-CD60FBA091E3_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.504,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "93FE7F20-205E-46A6-B346-BCD04099148B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.04,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "B5184F9F-66A8-4B47-AE28-5B1388BDDE27",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BC9EBB7C-C017-4158-B24D-2475A3F293C3",
+  "verticalSpacing": 0
+}

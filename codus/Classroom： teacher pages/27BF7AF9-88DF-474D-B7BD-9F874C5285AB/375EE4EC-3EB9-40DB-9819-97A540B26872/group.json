@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "375EE4EC-3EB9-40DB-9819-97A540B26872",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 39,
+    "width": 671,
+    "x": 429,
+    "y": 245
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DF10CE3A-AD51-46CF-BC88-579CC04182A7"
+    },
+    {
+      "class": "rectangle",
+      "id": "A4C47D76-47BF-4FDF-80E0-99A0D98FCE65"
+    },
+    {
+      "class": "group",
+      "id": "B993CF7F-4F0B-4046-BCD3-5EF20CDBAD01"
+    },
+    {
+      "class": "rectangle",
+      "id": "D45AD3C4-FA7F-4CE2-BBA2-E1006FCC4E15"
+    }
+  ],
+  "name": "Problem",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

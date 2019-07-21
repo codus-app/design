@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C0A736A0-66A2-46FC-8951-24BE3972755D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A55F8EB-ED19-4906-A90A-AB21F7577639",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F12CEE24-C504-4820-8DD7-1EE2784E9C12",
+    "height": 26,
+    "width": 70.10447761194033,
+    "x": 225.3358208955224,
+    "y": 62
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Profile chip 5",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E594ED8C-8AC6-476F-BA9A-275C8652E649",
+      "overrideName": "F47AE4C9-40ED-4185-91F8-A2653051515D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/21b8ba8eb4a56c22e790b279d40917a776364324.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5268E2BA-1691-421D-9577-BC6ED1EA4189",
+      "overrideName": "FC5D5217-7254-4E77-872F-BF721CB6904F_stringValue",
+      "value": "Jenny"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "874E05B0-63F6-4D1D-963E-396382AB6C33",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE400266-CC6B-4A59-A00B-5B6C437CB286",
+  "verticalSpacing": 0
+}

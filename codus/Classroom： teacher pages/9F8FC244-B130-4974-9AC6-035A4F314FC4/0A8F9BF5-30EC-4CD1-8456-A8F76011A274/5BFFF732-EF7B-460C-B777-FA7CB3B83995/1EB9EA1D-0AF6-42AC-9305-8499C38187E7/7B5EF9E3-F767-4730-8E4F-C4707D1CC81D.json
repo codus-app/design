@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7B5EF9E3-F767-4730-8E4F-C4707D1CC81D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81E19B2C-AAAD-4058-B7D2-58E7E6E7A041",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA597A47-1634-46F5-AD5C-CF47F9514EA9",
+    "height": 35,
+    "width": 105.1363636363636,
+    "x": 179.2324675324675,
+    "y": 33
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Problem",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FCEB90E6-A75F-4F59-A54C-6C610C5F53DF",
+      "overrideName": "A1C64E84-5083-44F7-BE61-A1AA1C347124_stringValue",
+      "value": "Difference"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3BBD106-3DB9-458F-90C7-0267A8508672",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "92A24F73-2355-45F9-A21F-7F95B6FD4F36",
+  "verticalSpacing": 0
+}

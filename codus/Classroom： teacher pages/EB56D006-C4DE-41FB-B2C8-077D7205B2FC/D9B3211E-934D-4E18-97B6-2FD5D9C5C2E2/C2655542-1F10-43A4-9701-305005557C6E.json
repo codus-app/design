@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C2655542-1F10-43A4-9701-305005557C6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 53,
+    "width": 190,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atoms / input / single line",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C337162A-B9A4-4E92-BFE6-8F994C04AD04",
+      "overrideName": "9B76C5D0-F0F0-4467-B95D-6A108352EC59_stringValue",
+      "value": "Classroom name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AC92022-49D4-4AF7-A1DE-42D410222457",
+      "overrideName": "3FC45842-D106-4592-88FE-04A7BE4A32E9_stringValue",
+      "value": "AP Computer Science"
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D64A83D4-44E5-418E-B64A-A0DF58D59CA8",
+  "verticalSpacing": 0
+}

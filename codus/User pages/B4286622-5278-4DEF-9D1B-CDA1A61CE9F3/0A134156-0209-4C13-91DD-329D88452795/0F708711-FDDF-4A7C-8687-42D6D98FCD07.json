@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0F708711-FDDF-4A7C-8687-42D6D98FCD07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 53,
+    "width": 205,
+    "x": 260,
+    "y": 240
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Name input",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9829D83E-0850-44DA-BDD5-0C0AB788C8E3",
+      "overrideName": "3FC45842-D106-4592-88FE-04A7BE4A32E9_stringValue",
+      "value": "Jane Doe"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D714233-EF91-458F-869C-192CEAD5B1BB",
+      "overrideName": "9B76C5D0-F0F0-4467-B95D-6A108352EC59_stringValue",
+      "value": "Display name"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D64A83D4-44E5-418E-B64A-A0DF58D59CA8",
+  "verticalSpacing": 0
+}

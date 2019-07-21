@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5F8604E1-EE53-4A40-94DF-A42FD38DA6CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B043EC9A-33D2-4AEF-B46D-8CAD1C691EB2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F356AFC0-A88C-47BF-92E7-E8C355C7B3FD",
+    "height": 100,
+    "width": 100,
+    "x": 290,
+    "y": 25
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E5D86EEA-9AF3-4D42-8E8E-EFD706421692"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "DD085D79-21BF-4C1B-BA68-4990E6E23513"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5BD863B5-B79B-4339-A1EA-D436FDFB957D"
+    }
+  ],
+  "name": "atoms / Blank avatar (light)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "935F8426-9316-4F95-80E9-AA55A0ECDAF5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

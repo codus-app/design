@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8CD0F1AC-CDB5-4E6A-A9E4-6E7E9D30EFAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD6B590A-E07A-483F-A1B0-30E2CB5961CE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A1BD75AB-FF25-497E-81C2-86666221F6BF",
+    "height": 26,
+    "width": 99.14776119402984,
+    "x": 117.1746268656717,
+    "y": 62
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Profile chip 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E594ED8C-8AC6-476F-BA9A-275C8652E649",
+      "overrideName": "F47AE4C9-40ED-4185-91F8-A2653051515D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b6c9e78cfdd06885d17a86f9ab990da9609473ff.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5268E2BA-1691-421D-9577-BC6ED1EA4189",
+      "overrideName": "FC5D5217-7254-4E77-872F-BF721CB6904F_stringValue",
+      "value": "Yara Barros"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "96EF7639-325C-4141-833D-8B3A028B7242",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE400266-CC6B-4A59-A00B-5B6C437CB286",
+  "verticalSpacing": 0
+}

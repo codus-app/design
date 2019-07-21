@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E2FDB664-72A9-418B-8017-CEDB39BA019A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1593AF05-69F7-4468-B2E1-F7A666FA4142",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "92C0C908-C912-41CE-ADCB-BFF2775C65ED",
+    "height": 100,
+    "width": 325,
+    "x": 0,
+    "y": 605
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Test case",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EE6ED6AF-BFD1-44A3-93CF-C9289347B7CD_symbolID",
+      "value": "DEA713B1-8662-43B9-9600-EECD756FE124"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "91F3700B-D580-4AF8-B320-21E8B4EC4C79_stringValue",
+      "value": "Function call: main(\"\", \"\")"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E4F279F0-C416-4C46-819E-7659A5966E15_stringValue",
+      "value": "Expected result: \"\""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9CA0DE01-BAF0-43D6-AAF5-1C0BE27BC0CB_stringValue",
+      "value": "Your solution returned: \" \""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D7537389-6F29-4F58-BCB0-1FF434CFB515_stringValue",
+      "value": "Pass: false"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "88994F80-C725-4C18-8A91-4B54E4E25479",
+      "opacity": 0.5021158854166666
+    },
+    "do_objectID": "6BF05DD3-FFE0-4F51-936C-17DD3B16E740",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DC7717F7-EC91-4D61-B938-B8E68D352774",
+  "verticalSpacing": 0
+}

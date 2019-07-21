@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A6C88021-80BE-4EDF-AD7D-4D1169E1DE2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "432BCC17-DFE0-4199-938A-EE9674DCEB90",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A44D8790-6D8D-452B-A5EC-69398A107CBC",
+    "height": 27,
+    "width": 65,
+    "x": 247,
+    "y": 59
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C3F59AB5-6387-4960-8A3E-838FB5736D89"
+    },
+    {
+      "class": "text",
+      "id": "B8BDA62C-1193-4145-9A57-A9C678DA377B"
+    }
+  ],
+  "name": "Replace button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D8DF2774-DA6C-4433-B1AB-82EE94D11B94",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

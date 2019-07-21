@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE579853-9355-4FE1-A192-9F8E5E6467C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 346,
+    "width": 176,
+    "x": 0,
+    "y": 66
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FC18F00A-8FEB-4CAA-8CF1-258B556F0660"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58A33C52-4DD4-432A-8CEF-4855BE0F48F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A646A47A-376C-4682-BD54-7609DE002806"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39ABF028-169D-4EC5-8A04-BE48273D076C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6AF9CC1-BE30-46EB-8EC2-C38F4296ACBB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F92ADDA4-BCE2-48FE-8856-EEB08E4DE71B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3C2CE11-A8D6-4F4D-96C4-77FF163BC6FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D0511AB-DCD5-430E-ACAA-9997EA6522B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A358267-BDB9-4492-BE34-40EDFB5D2CFE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8E016B8-75B0-46CB-86A7-AB3614A4B0C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B26AE82F-DC40-4211-A33F-10E2F4E6D683"
+    }
+  ],
+  "name": "String operations",
+  "nameIsFixed": true,
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

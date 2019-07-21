@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C649F51D-4908-421C-A727-1BF00D7FF9FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "C67235B3-61FC-4ACA-8145-11D463D873D7",
+    "do_objectID": "E5E32C94-0A12-4B2C-B477-8090606673A6"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 692,
+    "width": 1030,
+    "x": 0,
+    "y": 60
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5ECB26FC-9E83-4696-BC56-3F04BFC783F3"
+    },
+    {
+      "class": "group",
+      "id": "DD4A8B7E-8F65-46ED-9BDC-4DA95CA63C52"
+    },
+    {
+      "class": "group",
+      "id": "A6BE25B7-511C-40D5-9FEF-C6883A03A46C"
+    },
+    {
+      "class": "group",
+      "id": "ED3B3651-4267-4404-A5DF-7A925F9F1398"
+    },
+    {
+      "class": "group",
+      "id": "92C2C0C0-4A71-4D53-8A09-1FD889CE9F58"
+    },
+    {
+      "class": "group",
+      "id": "1495977E-4BB7-407E-95AD-62A562E7F20C"
+    },
+    {
+      "class": "group",
+      "id": "6E51B519-D4CF-4EAB-A121-01143165412E"
+    },
+    {
+      "class": "group",
+      "id": "130AE07E-E75A-49C1-9FA2-049AE1E6CAC1"
+    },
+    {
+      "class": "group",
+      "id": "CE3C27F0-40FA-4956-A741-026E071F37AA"
+    },
+    {
+      "class": "group",
+      "id": "81822B2A-BAA5-4D6A-931F-D2CB0D29695F"
+    },
+    {
+      "class": "group",
+      "id": "6890A0BF-F3E5-4CF7-8025-6DD7F9C27541"
+    },
+    {
+      "class": "group",
+      "id": "2B9BB05B-F233-42EE-813D-E501DD6B1E0D"
+    },
+    {
+      "class": "rectangle",
+      "id": "CD4FEAE9-AE57-4537-86D6-873A3DA66338"
+    }
+  ],
+  "name": "Problems",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

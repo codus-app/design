@@ -1,0 +1,113 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1294117647058823,
+    "green": 0.1176470588235294,
+    "red": 0.1176470588235294
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "35C1136D-E5A0-4CDF-AEF8-E64CB1011F5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 850,
+    "width": 1280,
+    "x": -579,
+    "y": 453
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      765
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7A3E94A3-D4BA-4A56-BB21-C8B2852C8310"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB226552-B108-4ADE-9C96-FA20E0CB704C"
+    },
+    {
+      "class": "group",
+      "id": "ED472599-AE4E-46B9-9E9F-C68E275A5A38"
+    },
+    {
+      "class": "group",
+      "id": "529F0298-3EFA-475D-88FF-A26C4F4B5450"
+    },
+    {
+      "class": "group",
+      "id": "FDFE8718-E134-4CFE-835D-F017DB0B2885"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFE63DCB-E8DC-4A09-8591-DEF98B1DB129"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "437B28B9-FD41-4AFB-A8AA-4DCC2BF67507"
+    },
+    {
+      "class": "text",
+      "id": "CC471B00-413E-454D-AD95-63182A1A81D5"
+    }
+  ],
+  "name": "Overview (empty)",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 850,
+    "name": "standard web",
+    "offersLandscapeVariant": 0,
+    "width": 1280
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1E0D0073-F9FA-42C6-879D-02F5C406BF9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C5A2F6F-10A7-428E-A613-CDF6B9140B11",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B862ABE-8BE2-4BB4-9B3C-986EE162D129",
+    "height": 35,
+    "width": 325,
+    "x": 0,
+    "y": 399
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Test case",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D516F933-432A-4870-B657-BC7548FE7F0E_stringValue",
+      "value": "main(\"str\", \"STR\") -> \"str str\""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "37B91475-11B9-4B2A-BD3C-BDCAD1F72D8E",
+      "overrideName": "C802D596-6DB9-4EA8-A87E-72250C47EAC4_symbolID",
+      "value": "E016CB8A-7E33-4FFD-AF7C-63A9137CF76F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7BD1D11B-6B07-4DDB-BD3A-F6B5BC574576",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6083A37F-F9BB-40BF-932C-F9BA31A18997",
+  "verticalSpacing": 0
+}

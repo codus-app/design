@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B3699C46-1759-496B-B119-66CB3E5D416B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 426,
+    "width": 460,
+    "x": 100,
+    "y": 67
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5608E1E7-EC92-456B-9ECE-5DB3494662EF"
+    },
+    {
+      "class": "group",
+      "id": "2236949E-D43B-4544-929B-37368323B7EA"
+    },
+    {
+      "class": "group",
+      "id": "2F77DA12-F11B-4489-A9E0-AFB066DFC6AF"
+    },
+    {
+      "class": "text",
+      "id": "55E437F0-AE80-4302-9518-5BF39A80C7B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DEA3ABF8-EBCD-4179-A397-30A87D938381"
+    },
+    {
+      "class": "text",
+      "id": "37CE3CC2-8CA8-46FA-8172-7F006D28BD36"
+    }
+  ],
+  "name": "Signup CTA",
+  "nameIsFixed": true,
+  "resizingConstraint": 14,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

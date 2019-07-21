@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "840D5709-C116-41AF-935C-FCA0709FBEB7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 136,
+    "width": 114.1701492537314,
+    "x": 38.05671641791045,
+    "y": 65
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "65C5B0CC-F710-482B-8F6F-78C14C10E6ED"
+    },
+    {
+      "class": "oval",
+      "id": "13A5D593-4DD3-4D65-997E-FCE6E60EE222"
+    },
+    {
+      "class": "oval",
+      "id": "2EA83945-6526-4B6F-815C-64070AC4DAA8"
+    },
+    {
+      "class": "text",
+      "id": "4C059FCF-3021-4ECA-9F36-B7201AC3E3D5"
+    }
+  ],
+  "name": "Donut",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

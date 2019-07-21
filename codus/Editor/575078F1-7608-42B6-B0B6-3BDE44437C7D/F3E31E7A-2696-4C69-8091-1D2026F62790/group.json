@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F3E31E7A-2696-4C69-8091-1D2026F62790",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 788,
+    "width": 325,
+    "x": 931,
+    "y": 58
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4FFDDDF1-B06A-4DE5-9F21-B2B9683B81D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E43DD9A9-0B01-4C31-B440-CE7F03609224"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "899746D1-6DAB-4E81-A801-DF58B0518683"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29A29002-D07D-46AC-91F6-3C47B69DE8FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4421EE3D-A13F-42F8-97F4-EE1DCE3018F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BBA25CD8-A9E5-4CD4-B063-096F8ED8E69A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A0C5469-EB24-426A-995A-7F2DDA3ECD94"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF6869BE-9740-46F0-89B1-7D2892F88CB8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6E879EC-DB6E-4B68-B338-74C5F17F916B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0EFC717B-93C1-43AC-886B-3A8DF2DFB33F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C69AFA07-F4D1-4BAA-B266-B157D1A9D172"
+    },
+    {
+      "class": "text",
+      "id": "0F676BEC-E15B-4417-A5D3-71BA1CDA465C"
+    },
+    {
+      "class": "group",
+      "id": "375DC7FF-2720-41A5-8641-E86F9AA4986D"
+    },
+    {
+      "class": "rectangle",
+      "id": "A5BB1233-8466-40FB-95EC-2E41A7DCF698"
+    }
+  ],
+  "name": "Test cases",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

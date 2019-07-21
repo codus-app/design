@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "825EB9DC-234B-4CCD-AE11-E6672D52998C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "305A80F6-580E-43CB-8412-45097B772E62",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3EE374CB-3528-4D81-899D-8839EA422442",
+    "height": 105,
+    "width": 301,
+    "x": 0,
+    "y": 321
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Student 4",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43C41869-3EF4-413C-993F-EB1F878D304E",
+      "overrideName": "A978AFF9-75C5-49F2-AC75-0175ADD7ACAB_stringValue",
+      "value": "Heather Clark"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6ABB1A10-2BD4-4AC4-B842-178C64F0802A",
+      "overrideName": "00D8D7DA-AE36-48ED-872B-B34B461BAA8A_stringValue",
+      "value": "63%"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A92B0A7-378E-4169-B50E-33D128D937F5",
+      "overrideName": "0E39D392-2992-48C6-9D80-F0DCBDC74CF1_stringValue",
+      "value": "42"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1CFF01F2-42AF-4DAA-A788-993F10C40FAA",
+      "overrideName": "B567EEFD-54C4-4893-A3B7-15361FC5EC23_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/30b7117b450f87bc4fc959117de2b7a9df9a26b6.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "87AE0D73-DAFA-4383-A88A-3685053C7956",
+      "overrideName": "D77DACAA-162E-4848-B92E-7D9CB5A05195_stringValue",
+      "value": "myusernameis"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "864F4A61-784C-490D-B42A-D6229061E150",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CC257E63-9268-4713-A97F-1FFEE69C7133",
+  "verticalSpacing": 0
+}

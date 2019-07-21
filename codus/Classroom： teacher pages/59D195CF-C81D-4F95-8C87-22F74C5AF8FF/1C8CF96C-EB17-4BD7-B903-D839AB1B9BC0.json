@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C8CF96C-EB17-4BD7-B903-D839AB1B9BC0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B5F00BD-72A8-4119-87D4-A2763B9C0D9F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "575AEE62-97B5-4182-B63C-79D8E4D5793E",
+    "do_objectID": "C5BCD5B9-64A8-4719-A233-D11053B0075B"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4E01EF7D-9CD6-421E-AD6C-1F2EFA1BADB4",
+    "height": 21,
+    "width": 21,
+    "x": 1149,
+    "y": 60
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon / user-plus",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F430FD01-ED51-49DE-AF75-3A45AADC9216",
+      "overrideName": "1D45749B-25DC-4DC2-8F19-A1859B3B802A_symbolID",
+      "value": "2651116C-CA75-4D0D-814B-BA2463036101"
+    }
+  ],
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "45E9A5A9-64C3-4961-82D3-E9DC6857D8BD",
+      "opacity": 0.7519763764880952
+    },
+    "do_objectID": "8D310CCD-D51C-48C5-A2ED-6136FABE9503",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1F8A1808-B015-4B21-A750-27537C05512D",
+  "verticalSpacing": 0
+}

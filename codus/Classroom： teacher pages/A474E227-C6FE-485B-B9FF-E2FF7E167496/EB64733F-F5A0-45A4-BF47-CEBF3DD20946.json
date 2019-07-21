@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EB64733F-F5A0-45A4-BF47-CEBF3DD20946",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "62DA671D-767F-4833-BEE1-F79411D7E5E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4841695D-7E47-4742-9278-489FA3B7FD75",
+    "height": 75,
+    "width": 891,
+    "x": 321,
+    "y": 115
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Assignment 1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A8153C5C-FC61-4FD9-8371-78D8C0EAD7C7",
+      "overrideName": "C6497D24-26CD-4764-BA2E-A9FD22DAF55E_stringValue",
+      "value": "Practice for the AP"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "902AC62D-E763-460E-839B-7AC121054B0B",
+      "overrideName": "C38B97FF-BEDA-4E54-A5F4-A99ED9C8A910_stringValue",
+      "value": "Due May 20"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C05E4F68-C93D-4601-99A1-CD53EB55B51B",
+      "overrideName": "A0BB2A70-0CF6-4C67-B63F-4476F69323FA_layerStyle",
+      "value": "C8BA7535-D2DC-403A-A585-1CF8F0A870B7"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0824EC2D-6A68-4536-8BB3-3421CFAEF77D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8E6331B2-D794-4532-BFFF-843F89F451F8",
+  "verticalSpacing": 0
+}

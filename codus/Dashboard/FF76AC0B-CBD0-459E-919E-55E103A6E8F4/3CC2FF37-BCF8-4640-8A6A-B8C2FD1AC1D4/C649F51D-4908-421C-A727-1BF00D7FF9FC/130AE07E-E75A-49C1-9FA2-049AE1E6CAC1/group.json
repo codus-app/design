@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "130AE07E-E75A-49C1-9FA2-049AE1E6CAC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "6F66726E-4085-4DA3-B79D-CCB8BFAC4919",
+    "do_objectID": "E07A30DE-64F4-4612-8F1C-BFA25A708186"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 158,
+    "width": 313,
+    "x": 358,
+    "y": 178
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "00B450D6-13AA-42E8-BDF1-B5B7D98868F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E945B2FF-7424-47E6-B983-2CE951D23FF0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F5070D2-BFB4-4566-9B13-77FFF892B615"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FB42269-52FD-4165-84D7-BB1F55067C98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C00E165-E1B0-443D-B8D7-3CCE360134E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8FFDA3A0-100A-4F6A-9681-C40F92DB504C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2790B4FA-B8D6-4037-BF71-D2EE2CE9F066"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94A55F2C-FCBF-4B8A-B5DE-850D229E99EB"
+    },
+    {
+      "class": "text",
+      "id": "EFF0F4FF-CCF8-4C88-B165-87818A38EE42"
+    }
+  ],
+  "name": "Boolean Operations",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 20,
+        "color": {
+          "_class": "color",
+          "alpha": 0.25,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 10,
+        "spread": -15
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

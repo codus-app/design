@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7EB85DD3-CBEB-4240-8EFC-62622359C8D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 18,
+    "x": 16,
+    "y": 264
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Challenge",
+  "nameIsFixed": true,
+  "originalObjectID": "1BA0DAD4-2E2D-4EE8-ADB9-DB28EDC36257",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BBED70D9-22CA-412B-922C-32F0C03F5D14",
+      "overrideName": "130EC9A1-6245-4A13-A29A-8B8BACCC8016_symbolID",
+      "value": "9A9DA484-1D6B-4848-B8F5-118A64D24712"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4A79259-B834-4D78-B11B-AEDD091E0237",
+      "overrideName": "3A67493F-A87D-4C84-B737-61D42B341C10_symbolID",
+      "value": "2651116C-CA75-4D0D-814B-BA2463036101"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.75
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "448E1D8D-D4C2-4895-A91F-2C9C9AC130C5",
+  "verticalSpacing": 0
+}
