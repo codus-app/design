@@ -50,7 +50,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 132,
-    "width": 332,
+    "width": 331,
     "x": 200,
     "y": 105
   },
@@ -101,5 +101,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 2
 }

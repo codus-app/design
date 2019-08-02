@@ -47,19 +47,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
       "id": "6FF2CC94-8645-43B5-98AC-F20420222FA4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B5EDD7C1-1F72-41DD-B3B1-DB49E92BE7D3"
-    },
-    {
-      "class": "text",
-      "id": "DB1415BD-D1EB-4D37-B58E-13CAD4A36926"
     },
     {
       "class": "group",
@@ -68,6 +60,14 @@
     {
       "class": "group",
       "id": "D9B3211E-934D-4E18-97B6-2FD5D9C5C2E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5EDD7C1-1F72-41DD-B3B1-DB49E92BE7D3"
+    },
+    {
+      "class": "text",
+      "id": "DB1415BD-D1EB-4D37-B58E-13CAD4A36926"
     }
   ],
   "name": "Classroom settings",

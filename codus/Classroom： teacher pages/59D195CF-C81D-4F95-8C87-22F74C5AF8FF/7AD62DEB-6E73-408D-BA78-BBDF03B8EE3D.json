@@ -51,7 +51,7 @@
     "constrainProportions": false,
     "do_objectID": "0D5F4414-D5F1-4CA1-BD29-1E37F54AAA04",
     "height": 33,
-    "width": 261,
+    "width": 260,
     "x": 324,
     "y": 53
   },
@@ -103,5 +103,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

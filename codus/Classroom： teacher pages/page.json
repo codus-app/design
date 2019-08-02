@@ -76,6 +76,10 @@
       "id": "F5F31658-2F3F-4172-95FA-76B8838B2AA1"
     },
     {
+      "class": "text",
+      "id": "B9C9CF2A-1553-4E61-AE40-447C2CD71706"
+    },
+    {
       "class": "artboard",
       "id": "27BF7AF9-88DF-474D-B7BD-9F874C5285AB"
     },
@@ -97,7 +101,7 @@
     },
     {
       "class": "artboard",
-      "id": "66BE4F96-8C45-4C03-8B43-E515E3C15919"
+      "id": "5082A3E5-410C-4907-8D0C-BE8C0FF720EC"
     },
     {
       "class": "text",
@@ -117,6 +121,10 @@
     },
     {
       "class": "artboard",
+      "id": "EB56D006-C4DE-41FB-B2C8-077D7205B2FC"
+    },
+    {
+      "class": "artboard",
       "id": "0F04B779-A8F3-41FA-B570-83D49CD33AE9"
     },
     {
@@ -132,12 +140,12 @@
       "id": "7D789989-7B3B-4843-B7AD-EA48D31A961D"
     },
     {
-      "class": "artboard",
-      "id": "575AEE62-97B5-4182-B63C-79D8E4D5793E"
-    },
-    {
       "class": "text",
       "id": "4158C1C4-49EC-44D0-BB33-C744F0087E3C"
+    },
+    {
+      "class": "artboard",
+      "id": "575AEE62-97B5-4182-B63C-79D8E4D5793E"
     },
     {
       "class": "artboard",
@@ -146,6 +154,10 @@
     {
       "class": "artboard",
       "id": "35C1136D-E5A0-4CDF-AEF8-E64CB1011F5C"
+    },
+    {
+      "class": "artboard",
+      "id": "66BE4F96-8C45-4C03-8B43-E515E3C15919"
     },
     {
       "class": "artboard",
@@ -158,18 +170,6 @@
     {
       "class": "artboard",
       "id": "1CFB1CA7-D306-46A4-A0A5-4159E9DDB9B2"
-    },
-    {
-      "class": "artboard",
-      "id": "5082A3E5-410C-4907-8D0C-BE8C0FF720EC"
-    },
-    {
-      "class": "text",
-      "id": "B9C9CF2A-1553-4E61-AE40-447C2CD71706"
-    },
-    {
-      "class": "artboard",
-      "id": "EB56D006-C4DE-41FB-B2C8-077D7205B2FC"
     }
   ],
   "name": "Classroom: teacher pages",

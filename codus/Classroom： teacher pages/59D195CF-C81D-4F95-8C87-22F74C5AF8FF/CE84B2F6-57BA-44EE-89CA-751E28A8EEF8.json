@@ -16,14 +16,15 @@
   "flow": {
     "_class": "MSImmutableFlowConnection",
     "animationType": -1,
-    "destinationArtboardID": "EB56D006-C4DE-41FB-B2C8-077D7205B2FC"
+    "destinationArtboardID": "EB56D006-C4DE-41FB-B2C8-077D7205B2FC",
+    "do_objectID": "087A55E9-2070-44F6-B13A-793D15F9A4F5"
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "442C2CA9-74F6-40E8-B018-56D592AFEBFD",
-    "height": 21,
-    "width": 21,
+    "height": 20,
+    "width": 20,
     "x": 1186,
     "y": 60
   },
