@@ -1,11 +1,10 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E95DB7C4-E350-408A-ACAE-1FCCD8D8FB39",
+  "do_objectID": "39FD4D63-839C-4EB8-AF21-8C59EDDDCD42",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1ECB6C21-D267-4E7A-8D6A-7DD3E4CB46E4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,46 +15,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A7B06FC0-322A-407C-BCF3-2F0BFF6389F2",
     "height": 15,
     "width": 72,
     "x": 27,
     "y": 102
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "0147C9BF-492F-494A-9C0E-75216909533A"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "atoms / badge",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "6D41B3F5-A802-4CF6-801C-C9BED036BE85"
-    },
-    {
-      "class": "text",
-      "id": "6E794693-6A8C-4821-B294-F275F33D9F19"
+      "_class": "overrideValue",
+      "do_objectID": "367CF7E4-5D63-4F7B-94E5-800BEB0AB859",
+      "overrideName": "6E794693-6A8C-4821-B294-F275F33D9F19_stringValue",
+      "value": "Instructor"
     }
   ],
-  "name": "Badge",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4A7F1FD8-C519-4DF8-A519-C22975F0C0B2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "4842169A-BE49-4E9A-93A2-DB1D0BDECFFE",
+  "verticalSpacing": 0
 }

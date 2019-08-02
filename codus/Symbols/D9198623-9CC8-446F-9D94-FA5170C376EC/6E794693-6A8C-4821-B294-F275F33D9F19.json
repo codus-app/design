@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Instructor"
+    "string": "Text here"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "constrainProportions": false,
     "do_objectID": "7711C1C8-DBC1-4969-B8C0-F5406540CF74",
     "height": 11,
-    "width": 59,
+    "width": 49,
     "x": 6.5,
     "y": 2
   },
-  "glyphBounds": "{{0, 2}, {59, 8}}",
+  "glyphBounds": "{{0, 2}, {49, 7}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,9 +68,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Instructor",
+  "name": "Text here",
   "nameIsFixed": false,
-  "resizingConstraint": 2,
+  "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -111,5 +111,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }
