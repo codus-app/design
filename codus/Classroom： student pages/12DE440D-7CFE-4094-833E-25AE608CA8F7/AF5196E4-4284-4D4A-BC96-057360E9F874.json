@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF5196E4-4284-4D4A-BC96-057360E9F874",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42BCF1D7-AF86-4ED3-9E67-ACE792B629A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B7A95F4-19A2-4722-9C51-F00EE8CB4CC2",
+    "height": 4,
+    "width": 25,
+    "x": 0,
+    "y": 322
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atoms / misc / Sidebar selection",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "776AFFB0-B4E2-48B6-BC3D-C33291171335",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "92517127-3EBD-4984-9BC7-7AA106D5C3B7",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,101 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1294117647058823,
+    "green": 0.1176470588235294,
+    "red": 0.1176470588235294
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "12DE440D-7CFE-4094-833E-25AE608CA8F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 850,
+    "width": 1280,
+    "x": -579,
+    "y": 514
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AE82A11C-3F7B-4AF9-9F9C-029F6EE15DB2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF5196E4-4284-4D4A-BC96-057360E9F874"
+    },
+    {
+      "class": "group",
+      "id": "EB790F58-6B16-49B3-8E50-653F5ABF2E6C"
+    },
+    {
+      "class": "group",
+      "id": "58C5B933-01B4-437F-A2D5-019701A05B4B"
+    },
+    {
+      "class": "group",
+      "id": "50BB2B93-0AF7-4046-82D4-61168E97CC9A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFE96A59-ED41-4196-A05E-61E24A673FF9"
+    },
+    {
+      "class": "text",
+      "id": "F4A49483-E9B7-4257-8221-28EC8DB95679"
+    }
+  ],
+  "name": "Overview (empty)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
