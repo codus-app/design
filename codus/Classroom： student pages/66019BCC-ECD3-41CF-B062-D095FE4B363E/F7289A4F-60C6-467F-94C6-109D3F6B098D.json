@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F7289A4F-60C6-467F-94C6-109D3F6B098D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 850,
+    "width": 250,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecules / Student sidebar (no classroom joined)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "64848FFF-11B1-403C-99CC-524F78B31137",
+      "overrideName": "B99218EA-400C-4661-B118-7A7676C94E46_stringValue",
+      "value": "Classroom"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44912BA8-EF6F-4FE6-B77D-3F9211C4D8D1",
+      "overrideName": "5033E877-6E32-4EBB-954A-C65378661BAD_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "02FF2806-EECE-40E9-A0BA-277D8128E66C",
+  "verticalSpacing": 0
+}

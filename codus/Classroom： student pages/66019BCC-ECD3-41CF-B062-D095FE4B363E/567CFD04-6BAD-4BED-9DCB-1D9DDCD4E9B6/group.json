@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "567CFD04-6BAD-4BED-9DCB-1D9DDCD4E9B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A4633CD4-25A5-4842-BE7B-3625E33D66A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7AC36FD9-D320-444D-82C2-0589E082CDBC",
+    "height": 16,
+    "width": 156,
+    "x": 43,
+    "y": 345
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "33AAE073-4D5A-4382-9135-8397C0CAB022"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "55F19EE3-04FC-4FF3-A742-0914770B647B"
+    },
+    {
+      "class": "text",
+      "id": "4A71EC5F-7AC3-4FD5-AE52-7E38B226EFE2"
+    }
+  ],
+  "name": "Join CTA 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "359A7AF5-2074-4FF4-9752-5784A3E88015",
+      "opacity": 0.75
+    },
+    "do_objectID": "BC837564-16EC-4009-BA76-B490F3E62E47",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

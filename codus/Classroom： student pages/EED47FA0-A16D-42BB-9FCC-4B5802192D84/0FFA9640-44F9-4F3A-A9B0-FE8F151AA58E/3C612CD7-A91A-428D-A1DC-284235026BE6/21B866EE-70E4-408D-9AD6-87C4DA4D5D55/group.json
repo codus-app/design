@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "21B866EE-70E4-408D-9AD6-87C4DA4D5D55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4368C9EB-C6C4-4A1F-87CB-9B19B1054ED5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DBCE5C33-67E1-407D-A608-6AEAB6869542",
+    "height": 17,
+    "width": 98,
+    "x": 24,
+    "y": 615
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "50527105-C2E1-46EB-A173-076437D4A676"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A876E4E1-A524-4D32-AF5B-22683AC5FA3E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3FDD5A2-9423-4056-9810-B37F52509130"
+    }
+  ],
+  "name": "Log out",
+  "nameIsFixed": true,
+  "originalObjectID": "CACD28DF-D290-4DDE-B9B5-1D2BA340BA96",
+  "resizingConstraint": 37,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "5DBD93E3-E640-4D44-B5F5-70B7C3174F93",
+      "opacity": 0.3037109375
+    },
+    "do_objectID": "F3B586E5-9AEB-413D-8629-A877AFE02BAD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
