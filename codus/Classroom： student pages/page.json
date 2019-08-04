@@ -40,6 +40,10 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "text",
+      "id": "D62DE35D-F3F4-4133-A824-54613772F4AC"
+    },
+    {
       "class": "artboard",
       "id": "12DE440D-7CFE-4094-833E-25AE608CA8F7"
     },

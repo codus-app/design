@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF12B18C-009D-4518-AF58-BCFF91F7C6B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "15B4600E-A968-43DC-A4B6-59F690DEE053",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "35186E1D-D16F-4514-B330-BC6AB0C43D33",
+    "height": 30,
+    "width": 139,
+    "x": 222,
+    "y": 142
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "421E0176-9F98-4A6F-B10E-AC1949415B70"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4EB3D50C-B160-412B-B8D7-B465ABCCF970"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0FBD8BB1-5796-44B5-A323-5990E1C4807E"
+    }
+  ],
+  "name": "Student 6",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6176C5BA-7F80-4768-AFDA-7B3E50414A21",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

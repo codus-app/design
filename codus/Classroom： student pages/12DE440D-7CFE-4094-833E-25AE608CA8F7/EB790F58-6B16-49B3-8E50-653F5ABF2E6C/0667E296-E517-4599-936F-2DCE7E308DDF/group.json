@@ -18,9 +18,9 @@
     "constrainProportions": false,
     "do_objectID": "1CA31422-6ECB-41C5-BFDF-61838E1554C2",
     "height": 46,
-    "width": 177.9999999999999,
-    "x": 129,
-    "y": 115
+    "width": 218,
+    "x": 109,
+    "y": 180
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -33,11 +33,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "EE3DABF7-A0EA-4E0F-86D8-EE8EAC7EB4C8"
+      "class": "text",
+      "id": "7FE31F25-816F-4DD6-B695-FE9096F2C5F4"
     },
     {
       "class": "text",
@@ -46,7 +46,7 @@
   ],
   "name": "Empty message",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

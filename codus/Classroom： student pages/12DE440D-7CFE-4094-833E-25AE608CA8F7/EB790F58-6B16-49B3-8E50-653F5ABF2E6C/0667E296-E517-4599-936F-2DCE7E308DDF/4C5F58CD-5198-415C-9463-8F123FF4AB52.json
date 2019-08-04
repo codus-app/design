@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 20,
+        "length": 25,
         "location": 0
       }
     ],
-    "string": "No assignments found"
+    "string": "No incomplete assignments"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "3C17C9A5-C715-4FB9-BC87-BB04E39A01AE",
     "height": 22,
-    "width": 176.9999999999999,
-    "x": 0.4999999999999999,
+    "width": 218,
+    "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 4}, {175, 18}}",
+  "glyphBounds": "{{1, 4}, {217, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -111,5 +111,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

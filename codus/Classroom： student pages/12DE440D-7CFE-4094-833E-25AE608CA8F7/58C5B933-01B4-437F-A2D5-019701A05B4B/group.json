@@ -20,7 +20,7 @@
     "height": 275,
     "width": 435,
     "x": 320,
-    "y": 385
+    "y": 245
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -41,11 +41,47 @@
     },
     {
       "class": "group",
-      "id": "466FCAFD-430F-4890-BF46-BFFD50E1B5A8"
+      "id": "FED4AF05-ACF5-4FD9-AC20-821FA461D62F"
+    },
+    {
+      "class": "group",
+      "id": "9504898D-0FFF-4C12-8B43-4366576BF1B0"
+    },
+    {
+      "class": "group",
+      "id": "F13BA0C2-B58A-40A1-B65B-3EC41591975D"
+    },
+    {
+      "class": "group",
+      "id": "FF12B18C-009D-4518-AF58-BCFF91F7C6B7"
+    },
+    {
+      "class": "group",
+      "id": "A661B1D8-738A-466D-AAC8-C9E5D3591886"
+    },
+    {
+      "class": "group",
+      "id": "03A3341B-1340-42C5-9E00-649745659377"
+    },
+    {
+      "class": "group",
+      "id": "BDBC36B3-549F-4643-A81B-E609569D2AA4"
+    },
+    {
+      "class": "group",
+      "id": "F6214DE6-3301-494D-A5F4-6BC54FC673C2"
+    },
+    {
+      "class": "group",
+      "id": "493CFC8E-B031-41F9-96C0-4B71824D2007"
     },
     {
       "class": "text",
-      "id": "45B12F91-B24B-4DFF-8067-0634614245F6"
+      "id": "28D100CA-F768-4EB0-B05E-A867350A6968"
+    },
+    {
+      "class": "text",
+      "id": "FCA08277-ADFD-4A02-A76D-3D3CFDC5D15A"
     }
   ],
   "name": "Students",

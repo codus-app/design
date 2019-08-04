@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "636FBCE1-7085-48E2-ACA1-DA7081B6A4B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 45,
+    "width": 45,
+    "x": 367,
+    "y": 42
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atoms / Icon button / default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8DB6540D-6966-4A18-853D-B827ED74C132",
+      "overrideName": "36DAD6CA-EA9B-4A8F-8253-1AE260F6A364_symbolID",
+      "value": "FB64D9C5-2D84-4131-B2B1-616FC0AFA543"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2333F024-5B00-4D6F-B82E-E527ACFFFCB6",
+      "overrideName": "36DAD6CA-EA9B-4A8F-8253-1AE260F6A364/96552B21-DDCC-468F-8FA3-6CD725872963_symbolID",
+      "value": "2651116C-CA75-4D0D-814B-BA2463036101"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EE9A9298-F913-4016-ACB6-38BF288AA750",
+  "verticalSpacing": 0
+}

@@ -37,6 +37,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      555
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -67,7 +68,7 @@
     },
     {
       "class": "group",
-      "id": "50BB2B93-0AF7-4046-82D4-61168E97CC9A"
+      "id": "5BB51A00-E660-4D04-A692-DDB3D3A9B85D"
     },
     {
       "class": "symbolInstance",
@@ -78,7 +79,7 @@
       "id": "F4A49483-E9B7-4257-8221-28EC8DB95679"
     }
   ],
-  "name": "Overview (empty)",
+  "name": "Classroom overview",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
