@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "36DAD6CA-EA9B-4A8F-8253-1AE260F6A364",
+  "do_objectID": "D62B5253-6733-49B6-8926-E33090EEDD89",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 29,
     "width": 29,
-    "x": 23,
+    "x": 18,
     "y": 18
   },
   "hasClippingMask": false,
@@ -33,7 +33,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "1EF34223-E3E7-4981-80DD-194ED217FC35",
       "overrideName": "3CB2DA55-4A21-4ED1-9468-923CC9232559_symbolID",
       "value": "2651116C-CA75-4D0D-814B-BA2463036101"
     }
@@ -45,11 +44,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.50439453125
-    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D62B5253-6733-49B6-8926-E33090EEDD89",
+  "do_objectID": "E55C1E74-5D19-4292-81B3-4B5E15CF9939",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 29,
-    "width": 29,
-    "x": 23,
-    "y": 18
+    "height": 65,
+    "width": 65,
+    "x": 5,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Icon",
+  "name": "Icon button",
   "nameIsFixed": true,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "3CB2DA55-4A21-4ED1-9468-923CC9232559_symbolID",
-      "value": "2651116C-CA75-4D0D-814B-BA2463036101"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -49,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F4DAF7CF-9D76-4BF0-9CAA-FD204DA885F6",
+  "symbolID": "EE9A9298-F913-4016-ACB6-38BF288AA750",
   "verticalSpacing": 0
 }

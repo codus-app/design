@@ -9,9 +9,9 @@
     "red": 0.07450980392156863
   },
   "booleanOperation": -1,
-  "changeIdentifier": 728,
+  "changeIdentifier": 227,
   "clippingMaskMode": 0,
-  "do_objectID": "457DB549-A5F7-4FD6-9022-00A9EF56A76D",
+  "do_objectID": "A3A773CD-AE72-49CA-B017-36850613C816",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,9 +24,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 85,
-    "width": 75,
-    "x": 222,
+    "height": 65,
+    "width": 65,
+    "x": 97,
     "y": 1459
   },
   "groupLayout": {
@@ -50,33 +50,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "E60B7A98-31FA-4AA6-B5D7-A9B91A9F7E8B"
-    },
-    {
       "class": "oval",
-      "id": "5F52A3C3-D90B-47CC-B36C-380CB9697830"
+      "id": "D9813535-F073-4054-9C2E-A2FC9C18C4AA"
     },
     {
       "class": "symbolInstance",
-      "id": "D62B5253-6733-49B6-8926-E33090EEDD89"
+      "id": "36DAD6CA-EA9B-4A8F-8253-1AE260F6A364"
     }
   ],
-  "name": "atoms / Icon button / active",
+  "name": "atoms / Icon button / default",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "E60B7A98-31FA-4AA6-B5D7-A9B91A9F7E8B_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "D62B5253-6733-49B6-8926-E33090EEDD89_symbolID"
+      "overrideName": "36DAD6CA-EA9B-4A8F-8253-1AE260F6A364_symbolID"
     }
   ],
   "resizesContent": false,
@@ -91,7 +82,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2AE0C48B-A6F1-4FB3-B5E7-78A06C57F565",
+  "symbolID": "EE9A9298-F913-4016-ACB6-38BF288AA750",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -9,9 +9,9 @@
     "red": 0.07450980392156863
   },
   "booleanOperation": -1,
-  "changeIdentifier": 838,
+  "changeIdentifier": 173,
   "clippingMaskMode": 0,
-  "do_objectID": "B22709DB-7C94-4238-9BC3-84A34EC1522B",
+  "do_objectID": "24727A3F-0589-4709-956B-14D2A365532D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 85,
-    "width": 75,
-    "x": 327,
+    "height": 65,
+    "width": 65,
+    "x": 212,
     "y": 1459
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,29 +50,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "0CB5D1B0-9975-4D5B-9663-4615A0E83EF3"
+      "class": "oval",
+      "id": "5F52A3C3-D90B-47CC-B36C-380CB9697830"
     },
     {
       "class": "symbolInstance",
-      "id": "E55C1E74-5D19-4292-81B3-4B5E15CF9939"
+      "id": "D62B5253-6733-49B6-8926-E33090EEDD89"
     }
   ],
-  "name": "atoms / Labeled icon button",
-  "nameIsFixed": true,
+  "name": "atoms / Icon button / active",
+  "nameIsFixed": false,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "0CB5D1B0-9975-4D5B-9663-4615A0E83EF3_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "E55C1E74-5D19-4292-81B3-4B5E15CF9939_symbolID"
+      "overrideName": "D62B5253-6733-49B6-8926-E33090EEDD89_symbolID"
     }
   ],
   "resizesContent": false,
@@ -87,7 +82,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2E0E1884-64DE-4604-877E-2DF6160261A4",
+  "symbolID": "AE106957-EC61-4124-9FF8-4E9D0A210293",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

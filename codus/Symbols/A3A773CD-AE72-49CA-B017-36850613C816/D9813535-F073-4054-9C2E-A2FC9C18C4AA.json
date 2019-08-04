@@ -2,7 +2,7 @@
   "_class": "oval",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5F52A3C3-D90B-47CC-B36C-380CB9697830",
+  "do_objectID": "D9813535-F073-4054-9C2E-A2FC9C18C4AA",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,7 +18,7 @@
     "constrainProportions": true,
     "height": 65,
     "width": 65,
-    "x": 5,
+    "x": 0,
     "y": 0
   },
   "hasClippingMask": false,
@@ -103,9 +103,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5147100000000001,
-          "green": 0.86,
-          "red": 0.2322
+          "blue": 0.1137254901960784,
+          "green": 0.1058823529411765,
+          "red": 0.1058823529411765
         },
         "fillType": 0,
         "isEnabled": true,
