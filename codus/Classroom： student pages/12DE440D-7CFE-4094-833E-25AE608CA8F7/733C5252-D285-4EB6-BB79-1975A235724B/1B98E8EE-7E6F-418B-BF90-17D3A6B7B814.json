@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1B98E8EE-7E6F-418B-BF90-17D3A6B7B814",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2DDB283D-7008-4658-969F-9148C41F86FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "B4286622-5278-4DEF-9D1B-CDA1A61CE9F3",
+    "do_objectID": "7E61D50D-79D2-4030-8BAC-6AD44A08B465"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5BC0EEF6-383D-405E-AD57-D36CAAD9507A",
+    "height": 30,
+    "width": 144,
+    "x": 0,
+    "y": 5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Item 1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1FEB52CD-9192-46F3-B8A2-8604E4263452",
+      "overrideName": "72694346-F242-4EB3-B454-BAA71B10D491_symbolID",
+      "value": "A2E7E529-A2B3-4A39-A55C-63DCC25AE613"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E1A3373-F83B-4332-8741-920213FF78E2",
+      "overrideName": "958A884A-779E-45FD-80EC-2810F96F9916_stringValue",
+      "value": "Leave classroom"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44868316-1A92-40C8-8A28-39A0C67F301D",
+      "overrideName": "72694346-F242-4EB3-B454-BAA71B10D491/46F07516-81A3-43C2-B2D5-92CC78C5DB98_symbolID",
+      "value": "2651116C-CA75-4D0D-814B-BA2463036101"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5DE80033-D538-4C91-96CE-C5233B129F6D",
+      "overrideName": "2F3C2573-3E7E-4F2A-9AB2-4458532D2A6C_symbolID",
+      "value": "A9149E7B-72C2-4F00-860F-90A0C1C8AC77"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "0E9658BE-AE7F-421C-8958-5FFAD5A1492F",
+      "opacity": 0.800000011920929
+    },
+    "do_objectID": "3875C810-5888-4721-998F-7989260929DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CF926207-E04F-4E7A-8942-440B9BAD5AC1",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "83EC4607-3000-4154-93CD-BA3F9F71E6C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "75E9421B-1235-454B-A104-40E21E1B2FED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "39AF10C4-1992-4307-BECC-9A8060D84E96",
+    "height": 30,
+    "width": 144,
+    "x": 0,
+    "y": 35
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E1A3373-F83B-4332-8741-920213FF78E2",
+      "overrideName": "958A884A-779E-45FD-80EC-2810F96F9916_stringValue",
+      "value": "Contact instructor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B39E779-0748-4EAA-A09A-58CFD31242FD",
+      "overrideName": "2F3C2573-3E7E-4F2A-9AB2-4458532D2A6C_symbolID",
+      "value": "A9149E7B-72C2-4F00-860F-90A0C1C8AC77"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B451F30-AD91-49EB-9488-827F929002F5",
+      "overrideName": "72694346-F242-4EB3-B454-BAA71B10D491_symbolID",
+      "value": "FB64D9C5-2D84-4131-B2B1-616FC0AFA543"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A4640973-7A48-4099-8C98-8D8FC2D1C324",
+      "overrideName": "72694346-F242-4EB3-B454-BAA71B10D491/96552B21-DDCC-468F-8FA3-6CD725872963_symbolID",
+      "value": "2651116C-CA75-4D0D-814B-BA2463036101"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "AAD6829B-8DBB-4D8A-A7A3-AB2CACBE5EE6",
+      "opacity": 0.7989211309523809
+    },
+    "do_objectID": "566BC11F-5952-4B5C-AF49-E9B6FA72E891",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CF926207-E04F-4E7A-8942-440B9BAD5AC1",
+  "verticalSpacing": 0
+}
