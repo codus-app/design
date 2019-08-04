@@ -25,20 +25,19 @@
             "alignment": 2
           }
         },
-        "length": 11,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Invite code"
+    "string": "Label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "33983F83-F29C-4850-8D65-B39B3F6D7A4C",
+  "do_objectID": "0CB5D1B0-9975-4D5B-9663-4615A0E83EF3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F6B65118-DC1A-4974-A29C-09F6E63F5CCD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "190F6F22-E89C-48B7-A04E-4AA747ABBA9C",
     "height": 16,
-    "width": 64,
-    "x": 0.9999999999999998,
+    "width": 75,
+    "x": 0,
     "y": 69
   },
-  "glyphBounds": "{{1, 3}, {63, 11}}",
+  "glyphBounds": "{{23, 3}, {30, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,21 +62,19 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Invite code",
-  "nameIsFixed": false,
+  "name": "Label",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "97B0B98E-E7EC-43A3-A456-2FE691364565",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F9767FDE-80E2-4494-B8C1-7497B2F2DF52",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

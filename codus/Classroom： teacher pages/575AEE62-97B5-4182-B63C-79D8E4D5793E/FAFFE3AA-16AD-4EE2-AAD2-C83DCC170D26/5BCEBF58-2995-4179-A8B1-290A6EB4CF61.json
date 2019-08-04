@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "54EFFBB6-FE39-4B84-BF91-45F0A6F728B6",
+  "do_objectID": "5BCEBF58-2995-4179-A8B1-290A6EB4CF61",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 29,
-    "width": 28.99999999999999,
-    "x": 18,
-    "y": 18
+    "constrainProportions": false,
+    "height": 85,
+    "width": 75,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +28,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Icon",
-  "nameIsFixed": true,
+  "name": "Icon button",
+  "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "F32F24F9-9380-4F17-B4D3-504DD6CC6F24",
-      "overrideName": "96552B21-DDCC-468F-8FA3-6CD725872963_symbolID",
-      "value": "2651116C-CA75-4D0D-814B-BA2463036101"
+      "do_objectID": "CCD10C2D-F657-4F16-8E8F-2E874FE14A44",
+      "overrideName": "0CB5D1B0-9975-4D5B-9663-4615A0E83EF3_stringValue",
+      "value": "Invite code"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F5483136-93CF-4912-A39B-026D66B7DABF",
+      "overrideName": "36DAD6CA-EA9B-4A8F-8253-1AE260F6A364_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,
@@ -45,16 +51,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.4992792038690476
-    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A6FA52A3-9EBC-4302-84B7-86DF463CDF8C",
+  "symbolID": "2E0E1884-64DE-4604-877E-2DF6160261A4",
   "verticalSpacing": 0
 }

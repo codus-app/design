@@ -9,9 +9,9 @@
     "red": 0.07450980392156863
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1041,
+  "changeIdentifier": 702,
   "clippingMaskMode": 0,
-  "do_objectID": "110C3697-CE78-4930-BD5C-A133BC543085",
+  "do_objectID": "B22709DB-7C94-4238-9BC3-84A34EC1522B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,9 +24,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 150,
-    "width": 130,
-    "x": -328,
+    "height": 85,
+    "width": 75,
+    "x": 97,
     "y": 1459
   },
   "groupLayout": {
@@ -50,18 +50,36 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "C0913BE8-C200-431E-8A88-E5B27E873387"
+      "class": "text",
+      "id": "0CB5D1B0-9975-4D5B-9663-4615A0E83EF3"
+    },
+    {
+      "class": "oval",
+      "id": "D9813535-F073-4054-9C2E-A2FC9C18C4AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36DAD6CA-EA9B-4A8F-8253-1AE260F6A364"
     }
   ],
-  "name": "molecules / context menu / background",
+  "name": "atoms / Icon button / default",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0CB5D1B0-9975-4D5B-9663-4615A0E83EF3_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "36DAD6CA-EA9B-4A8F-8253-1AE260F6A364_symbolID"
+    }
   ],
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -73,7 +91,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "62AE1BC8-A45E-4B02-A837-81087128D5AF",
+  "symbolID": "2E0E1884-64DE-4604-877E-2DF6160261A4",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -9,9 +9,9 @@
     "red": 0.07450980392156863
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1041,
+  "changeIdentifier": 728,
   "clippingMaskMode": 0,
-  "do_objectID": "110C3697-CE78-4930-BD5C-A133BC543085",
+  "do_objectID": "457DB549-A5F7-4FD6-9022-00A9EF56A76D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 150,
-    "width": 130,
-    "x": -328,
+    "height": 85,
+    "width": 75,
+    "x": 222,
     "y": 1459
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,18 +50,36 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "C0913BE8-C200-431E-8A88-E5B27E873387"
+      "class": "text",
+      "id": "E60B7A98-31FA-4AA6-B5D7-A9B91A9F7E8B"
+    },
+    {
+      "class": "oval",
+      "id": "5F52A3C3-D90B-47CC-B36C-380CB9697830"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D62B5253-6733-49B6-8926-E33090EEDD89"
     }
   ],
-  "name": "molecules / context menu / background",
+  "name": "atoms / Icon button / active",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E60B7A98-31FA-4AA6-B5D7-A9B91A9F7E8B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D62B5253-6733-49B6-8926-E33090EEDD89_symbolID"
+    }
   ],
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -73,7 +91,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "62AE1BC8-A45E-4B02-A837-81087128D5AF",
+  "symbolID": "2AE0C48B-A6F1-4FB3-B5E7-78A06C57F565",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
