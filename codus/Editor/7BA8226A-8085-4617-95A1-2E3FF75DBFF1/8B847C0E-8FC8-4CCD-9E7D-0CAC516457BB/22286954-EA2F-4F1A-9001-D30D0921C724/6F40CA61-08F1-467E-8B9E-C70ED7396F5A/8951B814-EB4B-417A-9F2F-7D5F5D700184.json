@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8951B814-EB4B-417A-9F2F-7D5F5D700184",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C1205E8-0817-414B-8488-0C86C33E748A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C6162B6-EA83-423C-B736-8B52B26BA547",
+    "height": 16,
+    "width": 151,
+    "x": 0,
+    "y": 99
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Problem",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9B63CA12-3833-4FE6-A817-4D87BDE345FC_stringValue",
+      "value": "Problem 3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "795217BF-8941-41C6-A09E-3C63FFC4B4C6",
+      "overrideName": "4EB455C8-E2F4-47D1-AA0C-5E3748CB9D80/529D6D90-BB98-4B53-A453-F44765342117_symbolID",
+      "value": "2651116C-CA75-4D0D-814B-BA2463036101"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "A71B4307-E8EB-415A-94C2-A36BD63D699C",
+      "opacity": 0.5
+    },
+    "do_objectID": "1507A68A-68D8-465E-9F93-C14F4B988480",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8171E289-9380-4E83-B90F-E12CFA50D98A",
+  "verticalSpacing": 0
+}

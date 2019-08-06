@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "80F14B33-BE8C-403C-947E-7DF4A4B2DC0F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "446F16DA-2AB9-4587-A229-8C691DCB7FC3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A43EE76-6041-4D26-A3A9-AF264D79E7C9",
+    "height": 16,
+    "width": 176,
+    "x": 0,
+    "y": 33
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "AP practice",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9E10B57B-EC76-41D3-821D-68CA9C2F139B",
+      "overrideName": "A39BF98D-BA6F-47D8-AA6F-1EC9E0D2318F_stringValue",
+      "value": "AP Practice"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "3D1ACF35-C537-4E4D-BDEC-8F6485A06F2F",
+      "opacity": 0.5
+    },
+    "do_objectID": "5808098F-7946-4B43-B662-477EF3AC0C5F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "68BACE0A-F12B-4E63-8D67-E693D17A0E9E",
+  "verticalSpacing": 0
+}

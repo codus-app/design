@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F40CA61-08F1-467E-8B9E-C70ED7396F5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72A37C11-3CF1-4B76-A564-7D2B4A73DBCA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4540AD8F-426A-4C8C-9D8F-09D81A7A29F3",
+    "height": 346,
+    "width": 176,
+    "x": 0,
+    "y": 66
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DB99B881-A803-4BFC-BD0E-8FD6DCBDD7E8"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E4A43F24-BB13-4183-9650-E260B85BFD24"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4ADA22B8-F913-4F98-A75D-B36750D15D00"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2927C84-A42E-4AC0-90A1-C1CE8F086341"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9B4831F1-827E-4863-A5F6-7D85817960AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A73DBA93-C3EA-4C36-BCFE-918D1592BFF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D629561D-32CC-4221-82F0-32A238C536A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E63D6807-8E20-4C31-9673-93612969D49B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8951B814-EB4B-417A-9F2F-7D5F5D700184"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FFCA6E9F-4DA9-4FFC-A419-5A3123D41904"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FA1D2172-E0AD-4D41-BDC1-D07714C8BA1F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98921DF8-79EE-46FE-AF79-70A34D8FEE95"
+    }
+  ],
+  "name": "String operations",
+  "nameIsFixed": true,
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "729E396E-79CE-414A-8F25-0D9D5F83C5F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

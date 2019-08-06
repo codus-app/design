@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7DB156F9-F78F-486A-B2B6-314DA41D6E3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8FDB8DB8-1ADB-4136-A83A-B9A39D50A221",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "6381BB9C-52BF-4540-A45F-0078EBBEDDC6",
+    "do_objectID": "B91C5817-89A9-40FC-993D-A6C64A9DCD8D"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "068FE617-525C-476A-9FA6-DE0BB947715B",
+    "height": 18,
+    "width": 18,
+    "x": 179,
+    "y": 15
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon / sidebar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4F863155-E3AD-49CD-BAF2-BFE582419DD4",
+      "overrideName": "A7F97AEC-56C3-4C59-823C-1602670282E8_symbolID",
+      "value": "2651116C-CA75-4D0D-814B-BA2463036101"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "6C46A46D-BC1F-4206-89C2-1C1B3CBD861D",
+      "opacity": 0.2457449776785714
+    },
+    "do_objectID": "8A7122BA-993C-4DD9-8AE9-AD85BDBBD642",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1CD74650-39E6-4BDE-AD3C-2F552522FB12",
+  "verticalSpacing": 0
+}
