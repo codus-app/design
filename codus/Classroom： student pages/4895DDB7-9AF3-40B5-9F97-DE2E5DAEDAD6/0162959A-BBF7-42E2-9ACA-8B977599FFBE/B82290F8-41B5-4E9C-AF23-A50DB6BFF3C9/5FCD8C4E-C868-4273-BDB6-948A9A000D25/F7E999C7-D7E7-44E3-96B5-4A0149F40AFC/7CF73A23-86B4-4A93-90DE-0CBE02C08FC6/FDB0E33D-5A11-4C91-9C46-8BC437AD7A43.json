@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FDB0E33D-5A11-4C91-9C46-8BC437AD7A43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8D5EDC5-6C1A-4572-A0C7-7BDB6C072394",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "26E0680B-2D6C-400E-A658-23B5B36151B6",
+    "height": 15,
+    "width": 15,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon / calendar",
+  "nameIsFixed": false,
+  "originalObjectID": "6EBE368C-775E-41A6-8892-69269DFB21E7",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CBDF8452-B212-4671-8F0D-FBBCD66972DF_symbolID",
+      "value": "9A9DA484-1D6B-4848-B8F5-118A64D24712"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7C15BCAA-A922-415E-A85E-1D55288FDF4F_symbolID",
+      "value": "2651116C-CA75-4D0D-814B-BA2463036101"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7B3BFA9D-8A5C-41C5-B61D-F203DD2EB64E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EB6643B9-11D1-46F4-91F0-A7FA5687B034",
+  "verticalSpacing": 0
+}

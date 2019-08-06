@@ -40,8 +40,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "artboard",
+      "id": "4895DDB7-9AF3-40B5-9F97-DE2E5DAEDAD6"
+    },
+    {
+      "class": "artboard",
+      "id": "6E312704-3662-465A-B1A6-DD158A4378E3"
+    },
+    {
       "class": "text",
       "id": "D62DE35D-F3F4-4133-A824-54613772F4AC"
+    },
+    {
+      "class": "text",
+      "id": "F71D9AE2-67B2-4BD5-8EF1-83F4E3163247"
     },
     {
       "class": "artboard",
@@ -66,14 +78,6 @@
     {
       "class": "symbolMaster",
       "id": "EED47FA0-A16D-42BB-9FCC-4B5802192D84"
-    },
-    {
-      "class": "text",
-      "id": "F71D9AE2-67B2-4BD5-8EF1-83F4E3163247"
-    },
-    {
-      "class": "artboard",
-      "id": "6E312704-3662-465A-B1A6-DD158A4378E3"
     }
   ],
   "name": "Classroom: student pages",

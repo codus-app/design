@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5DB3D357-ED54-4006-B42B-261B36876F4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6229D4CB-C61B-4715-A172-EB641FD9665A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "05394A94-D6E4-4574-9F02-66371900188E",
+    "height": 24,
+    "width": 24,
+    "x": 10.5,
+    "y": 10
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon / clipboard",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C097360D-A9FB-4522-8BB1-41FB22507E75_symbolID",
+      "value": "2651116C-CA75-4D0D-814B-BA2463036101"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "F948A155-EC28-449E-8BED-3370142C0AC9",
+      "opacity": 0.6481817336309523
+    },
+    "do_objectID": "823A5498-7315-4AFB-854A-152DB2B754BA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "64790277-D0BA-429C-A31B-BEC0AE0C3F32",
+  "verticalSpacing": 0
+}
