@@ -59,12 +59,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "86B403D6-6629-414E-B920-49B78ACE6C88",
-      "opacity": 0.7989211309523809
-    },
     "do_objectID": "B637A5B2-7DE3-4E93-9714-6EB11E8071E4",
     "endMarkerType": 0,
     "miterLimit": 10,
