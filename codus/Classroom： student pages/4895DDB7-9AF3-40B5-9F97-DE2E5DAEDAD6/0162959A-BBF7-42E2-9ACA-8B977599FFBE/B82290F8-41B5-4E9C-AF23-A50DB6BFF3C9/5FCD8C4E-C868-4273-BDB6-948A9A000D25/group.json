@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -45,6 +45,10 @@
     },
     {
       "class": "group",
+      "id": "05A5AED8-834C-4927-9F62-D37612E0E967"
+    },
+    {
+      "class": "group",
       "id": "F7E999C7-D7E7-44E3-96B5-4A0149F40AFC"
     },
     {
@@ -52,8 +56,8 @@
       "id": "C8B777A0-C862-4BF3-B775-0BBBE23F5448"
     }
   ],
-  "name": "Assignmnet",
-  "nameIsFixed": false,
+  "name": "Assignment",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
