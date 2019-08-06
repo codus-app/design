@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3ED2CA6D-FC00-4CD6-B475-190554575BC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2BA8EE01-89A9-48A8-A7C3-5A7838A8DF39",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "25326BB9-6FF3-4A60-834D-CF784B2E7BDB",
+    "height": 32,
+    "width": 104,
+    "x": 0,
+    "y": 67
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Problem Copy 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "245D1185-B772-4862-9B87-96283EED95D0",
+      "overrideName": "CF61CE77-4E15-4FC1-9FC8-7BE01C9F0ACD_stringValue",
+      "value": "Consectetur"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F6267427-AABC-4902-BB36-764133549849",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9647F415-BF34-453E-81E7-F2F17E8B2628",
+  "verticalSpacing": 0
+}

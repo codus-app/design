@@ -18,7 +18,7 @@
     "constrainProportions": false,
     "do_objectID": "CD09D784-8AC8-4FE2-82F1-FEA3B88D4733",
     "height": 30,
-    "width": 130,
+    "width": 140,
     "x": 0,
     "y": 65
   },
@@ -59,12 +59,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "D13495B1-0C10-4DEE-964E-AF267BC5E183",
-      "opacity": 0.7989211309523809
-    },
     "do_objectID": "02DBF290-F911-4298-B70D-4BF94F1129A9",
     "endMarkerType": 0,
     "miterLimit": 10,

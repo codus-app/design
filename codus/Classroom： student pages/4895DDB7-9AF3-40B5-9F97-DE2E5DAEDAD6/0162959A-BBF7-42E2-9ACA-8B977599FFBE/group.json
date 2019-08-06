@@ -33,11 +33,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "735FEF81-B146-463D-A8E0-EB224C8D5007"
+    },
+    {
+      "class": "group",
+      "id": "1D253FDF-9198-446A-BE32-9DC9D2B17A8B"
+    },
+    {
+      "class": "rectangle",
+      "id": "AF118364-E5AA-4913-AD9F-9EAD02C923A3"
+    },
+    {
+      "class": "rectangle",
+      "id": "82B0FE7B-2A03-4483-98E0-A2C2DBE6A296"
     },
     {
       "class": "group",

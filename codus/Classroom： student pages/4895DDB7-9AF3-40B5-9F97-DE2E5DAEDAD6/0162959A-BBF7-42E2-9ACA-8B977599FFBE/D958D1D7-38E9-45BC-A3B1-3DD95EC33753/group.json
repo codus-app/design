@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "50213F67-00D8-46E5-A79F-793DA2FB5D6C",
     "height": 100,
-    "width": 130,
-    "x": 741,
+    "width": 140,
+    "x": 731,
     "y": 50
   },
   "groupLayout": {
@@ -32,7 +32,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "layers": [
     {

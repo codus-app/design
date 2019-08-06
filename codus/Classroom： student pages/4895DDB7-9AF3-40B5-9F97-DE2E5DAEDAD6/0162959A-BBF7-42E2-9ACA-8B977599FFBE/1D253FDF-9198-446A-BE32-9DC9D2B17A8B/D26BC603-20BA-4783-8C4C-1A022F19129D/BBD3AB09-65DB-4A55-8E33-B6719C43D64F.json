@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBD3AB09-65DB-4A55-8E33-B6719C43D64F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1B8093F-7DAD-4EEB-B263-CABA78EBD2A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E53191B-FC18-4C9E-824A-EE0293340354",
+    "height": 32,
+    "width": 65,
+    "x": 95,
+    "y": 25
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Problem",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66338ADF-8AC0-46E1-9B35-18522AF85868",
+      "overrideName": "B04BFF72-1AD5-4C73-9C9F-BCE097C5E91B_stringValue",
+      "value": "Sum"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F6FD0770-0DC8-4441-A665-2749D88A90B8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "952AE045-66FB-472C-AC37-5F1D30F6712C",
+  "verticalSpacing": 0
+}

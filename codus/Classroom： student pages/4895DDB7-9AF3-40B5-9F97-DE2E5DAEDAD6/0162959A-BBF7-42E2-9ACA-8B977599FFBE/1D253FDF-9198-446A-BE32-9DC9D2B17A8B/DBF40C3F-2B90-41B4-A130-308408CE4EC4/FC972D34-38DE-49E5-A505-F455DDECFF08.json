@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC972D34-38DE-49E5-A505-F455DDECFF08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C2FD3D7-CEE8-488B-A1EA-3A5B0CEC2663",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "27D0E822-DF7B-4CC3-B32E-071A58472E0F",
+    "height": 32,
+    "width": 86,
+    "x": 114,
+    "y": 67
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Problem Copy 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "245D1185-B772-4862-9B87-96283EED95D0",
+      "overrideName": "CF61CE77-4E15-4FC1-9FC8-7BE01C9F0ACD_stringValue",
+      "value": "Eiusmod"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7B54964B-E1C6-40F3-8B21-36F197947E6A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9647F415-BF34-453E-81E7-F2F17E8B2628",
+  "verticalSpacing": 0
+}

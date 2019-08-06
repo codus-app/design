@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +48,9 @@
     "guides": [
       765,
       250,
-      1280
+      1280,
+      610,
+      645
     ]
   },
   "includeBackgroundColorInExport": true,

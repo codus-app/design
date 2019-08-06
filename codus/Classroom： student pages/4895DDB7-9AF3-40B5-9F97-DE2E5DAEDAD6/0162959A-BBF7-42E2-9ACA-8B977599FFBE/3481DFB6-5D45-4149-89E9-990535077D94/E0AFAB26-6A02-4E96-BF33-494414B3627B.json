@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "View Assignment"
+    "string": "Start assignment"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "E52A4805-251D-484A-8BF6-C61B56672A49",
     "height": 15,
-    "width": 123,
+    "width": 128,
     "x": 0,
     "y": 125
   },
-  "glyphBounds": "{{0, 3}, {122, 10}}",
+  "glyphBounds": "{{0, 3}, {127, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "View Assignment",
+  "name": "Start assignment",
   "nameIsFixed": false,
   "resizingConstraint": 33,
   "resizingType": 0,
@@ -109,5 +109,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

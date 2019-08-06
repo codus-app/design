@@ -18,7 +18,7 @@
     "constrainProportions": false,
     "do_objectID": "AD527DFE-1061-4463-A5C1-ECA4BA35524D",
     "height": 30,
-    "width": 130,
+    "width": 140,
     "x": 0,
     "y": 5
   },
@@ -43,7 +43,7 @@
       "_class": "overrideValue",
       "do_objectID": "1E1A3373-F83B-4332-8741-920213FF78E2",
       "overrideName": "958A884A-779E-45FD-80EC-2810F96F9916_stringValue",
-      "value": "Open"
+      "value": "Open in new tab"
     },
     {
       "_class": "overrideValue",
@@ -65,6 +65,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "DA98206C-8887-4A0D-89DB-3FCEA5FB1095",
+      "opacity": 0.800000011920929
+    },
     "do_objectID": "0C04AFB3-BD21-4EFC-BE3B-C66601F46CE5",
     "endMarkerType": 0,
     "miterLimit": 10,
