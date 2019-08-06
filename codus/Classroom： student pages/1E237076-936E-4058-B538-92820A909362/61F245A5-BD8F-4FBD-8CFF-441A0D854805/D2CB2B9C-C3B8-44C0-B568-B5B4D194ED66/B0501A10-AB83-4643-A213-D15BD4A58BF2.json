@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B0501A10-AB83-4643-A213-D15BD4A58BF2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "75AC51A8-FC45-4D61-8979-45DA2D0C7988",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "022DC8C0-77A4-4554-9791-530764FB3DFF",
+    "height": 16,
+    "width": 176,
+    "x": 0,
+    "y": 165
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Recursion",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A39BF98D-BA6F-47D8-AA6F-1EC9E0D2318F_stringValue",
+      "value": "Recursion"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "930C1C1B-0619-4FD6-97DE-62F255E41063",
+      "opacity": 0.6000000238418579
+    },
+    "do_objectID": "4BAE806A-0489-481B-8F11-A9EF0E167F00",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "68BACE0A-F12B-4E63-8D67-E693D17A0E9E",
+  "verticalSpacing": 0
+}

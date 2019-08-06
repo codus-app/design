@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "18856E35-47F1-40BA-A5B3-9DF1FBEAD831",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7814EC1C-5CAD-4746-90F0-4CACEE36EF24",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "647187F8-6304-4E63-B041-11CF015CF1B9",
+    "height": 16,
+    "width": 176,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Warmup problems",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E40B111F-08FF-484B-BE82-30DDA1668E6E",
+      "overrideName": "A39BF98D-BA6F-47D8-AA6F-1EC9E0D2318F_stringValue",
+      "value": "Warmup Problems"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "CDBD53B7-72F9-4445-B43C-5608AF3BE147",
+      "opacity": 0.6000000238418579
+    },
+    "do_objectID": "0DD650EB-BC62-4FDC-ADEE-35DD1447D4F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "68BACE0A-F12B-4E63-8D67-E693D17A0E9E",
+  "verticalSpacing": 0
+}
