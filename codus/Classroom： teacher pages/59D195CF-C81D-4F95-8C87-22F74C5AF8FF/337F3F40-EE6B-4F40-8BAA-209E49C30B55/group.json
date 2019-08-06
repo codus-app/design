@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -50,10 +50,6 @@
     {
       "class": "symbolInstance",
       "id": "C5C6D92F-1261-4FD4-9F24-3EFF7895F44E"
-    },
-    {
-      "class": "bitmap",
-      "id": "393A68D1-BDB8-4A11-B0B4-A5F7579514B5"
     }
   ],
   "name": "Message",
