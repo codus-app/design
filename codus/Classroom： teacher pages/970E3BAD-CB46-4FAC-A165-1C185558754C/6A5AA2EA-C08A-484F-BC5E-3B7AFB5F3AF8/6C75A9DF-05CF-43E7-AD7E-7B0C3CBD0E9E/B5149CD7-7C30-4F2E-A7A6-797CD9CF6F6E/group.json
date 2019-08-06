@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5149CD7-7C30-4F2E-A7A6-797CD9CF6F6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09248246-BE2B-4C13-B1D1-B920908C4A25",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "54E770CC-639E-4CA5-B182-F75B3469F8C7",
+    "height": 33,
+    "width": 32,
+    "x": 343,
+    "y": 15
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "54A3F830-BE59-4CB2-A64B-0903A962B8BC"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "56CACB93-2A34-4836-906D-472DEF83A5F1"
+    },
+    {
+      "class": "oval",
+      "id": "23B8DE48-24E9-4CCB-92B6-FD6995711E98"
+    }
+  ],
+  "name": "atoms / progress / Radial outline progress",
+  "nameIsFixed": false,
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "73F2F311-4AA7-483F-95F5-D2BBF5CDF6D1",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.56,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "83D64F4E-45FC-4179-89CB-E6F92E932C39",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
