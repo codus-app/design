@@ -1,17 +1,11 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "73B6FD8D-5B20-43DB-AF19-A9B1EA7ACC47",
+  "do_objectID": "2AE1F39E-4B45-49AF-A9BE-C922B27FE8E6",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A86C7ACA-FF18-4C64-A51D-A07EF8E09371",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,56 +16,50 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 850,
-    "width": 250,
-    "x": 646,
-    "y": -497
+    "do_objectID": "BCA02654-99FC-43A4-ADE3-1209C267EF43",
+    "height": 211,
+    "width": 236,
+    "x": 647,
+    "y": 300
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F69808A6-071A-4758-8BC0-986BB75BE708"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "text",
+      "id": "DDB7A694-1463-4A39-9D7B-E8B4CCD1C102"
+    },
+    {
+      "class": "text",
+      "id": "3EE505F4-78D5-4434-825C-2688B595DF16"
+    },
+    {
       "class": "symbolInstance",
-      "id": "87614EC8-AB74-4C59-A494-919DC41622F2"
+      "id": "314FDC1D-442F-477A-A180-AC921B5227B4"
     }
   ],
-  "name": "Student sidebar",
+  "name": "Message",
   "nameIsFixed": true,
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "C7040178-1FC2-43CE-A4E0-B578D462DDF6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

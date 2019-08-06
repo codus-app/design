@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F7289A4F-60C6-467F-94C6-109D3F6B098D",
+  "do_objectID": "3240DF3D-5E3D-485E-A7CE-609E29C31427",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "CBAF112A-23B8-42F1-BCFB-6C25A01916E5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 850,
-    "width": 250,
+    "do_objectID": "7A033B02-2806-41E2-A5AD-1A288C9671B5",
+    "height": 4,
+    "width": 25,
     "x": 0,
-    "y": 0
+    "y": 353
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,27 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "molecules / Student sidebar (no classroom joined)",
+  "name": "atoms / misc / Sidebar selection",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "64848FFF-11B1-403C-99CC-524F78B31137",
-      "overrideName": "B99218EA-400C-4661-B118-7A7676C94E46_stringValue",
-      "value": "Classroom"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "44912BA8-EF6F-4FE6-B77D-3F9211C4D8D1",
-      "overrideName": "5033E877-6E32-4EBB-954A-C65378661BAD_stringValue",
-      "value": " "
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "37426A7B-B59F-4D47-A33F-B49A65DD3313",
-      "overrideName": "E3CB7F81-1E11-40A8-B3D3-2930067DD021_flowDestination",
-      "value": ""
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -57,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "CA1837B0-B425-43E1-9323-0F0DAF506624",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "02FF2806-EECE-40E9-A0BA-277D8128E66C",
+  "symbolID": "92517127-3EBD-4984-9BC7-7AA106D5C3B7",
   "verticalSpacing": 0
 }

@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.9,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -16,30 +16,29 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Lato-Medium",
-              "size": 18
+              "name": "Lato-Bold",
+              "size": 27
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "paragraphSpacing": 6
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "alignment": 0
+          }
         },
-        "length": 52,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Future: CTA to subscribe to email notifications here"
+    "string": "AP Computer Science"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D62DE35D-F3F4-4133-A824-54613772F4AC",
+  "do_objectID": "B9B24499-2B01-45A3-9C5C-2689B430C771",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "51D984EB-D86E-4B05-A6D6-444BE3219938",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 320,
-    "x": 731,
-    "y": 709
+    "do_objectID": "A909A5B5-941A-47AA-8BBE-FFB6279346E2",
+    "height": 33,
+    "width": 260,
+    "x": 324,
+    "y": 53
   },
-  "glyphBounds": "{{1, 4}, {261, 37}}",
+  "glyphBounds": "{{-1, 6}, {260, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,30 +64,25 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Note",
+  "name": "Class name",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "587F7E60-DB57-4162-A805-9975E0B31FAD",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.4000000059604645
-    },
-    "do_objectID": "43B3B04A-5CB5-47E6-B2F2-E1B316581262",
+    "do_objectID": "F708F097-9C14-44E9-83DE-97F54B3FE931",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "B422B0E2-13F2-48D7-B9C1-7D33139417CB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.9,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -95,20 +90,18 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Lato-Medium",
-            "size": 18
+            "name": "Lato-Bold",
+            "size": 27
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "paragraphSpacing": 6
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "alignment": 0
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

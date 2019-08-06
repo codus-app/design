@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F7289A4F-60C6-467F-94C6-109D3F6B098D",
+  "do_objectID": "314FDC1D-442F-477A-A180-AC921B5227B4",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C32C74F9-C806-48CE-8210-83A40AF9D53D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,9 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 850,
-    "width": 250,
-    "x": 0,
+    "do_objectID": "4A21B4A8-9250-4490-B2C1-ACAF706A6490",
+    "height": 129,
+    "width": 100,
+    "x": 68.00000000000001,
     "y": 0
   },
   "hasClippingMask": false,
@@ -28,40 +30,33 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "molecules / Student sidebar (no classroom joined)",
+  "name": "Clipboard illustration",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "64848FFF-11B1-403C-99CC-524F78B31137",
-      "overrideName": "B99218EA-400C-4661-B118-7A7676C94E46_stringValue",
-      "value": "Classroom"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "44912BA8-EF6F-4FE6-B77D-3F9211C4D8D1",
-      "overrideName": "5033E877-6E32-4EBB-954A-C65378661BAD_stringValue",
-      "value": " "
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "37426A7B-B59F-4D47-A33F-B49A65DD3313",
-      "overrideName": "E3CB7F81-1E11-40A8-B3D3-2930067DD021_flowDestination",
-      "value": ""
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
+  "scale": 0.5813953488372093,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D1FC89C2-EDDF-4859-90B9-990C268FC837",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.813953488372094,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "3127A1F0-A13D-4991-A381-22E8DEC1406D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "02FF2806-EECE-40E9-A0BA-277D8128E66C",
+  "symbolID": "37059CBF-8573-4E15-AF18-90F62DABB77D",
   "verticalSpacing": 0
 }

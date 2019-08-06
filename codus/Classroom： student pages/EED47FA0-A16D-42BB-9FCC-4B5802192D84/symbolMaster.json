@@ -9,7 +9,7 @@
     "red": 0.07450980392156863
   },
   "booleanOperation": -1,
-  "changeIdentifier": 12,
+  "changeIdentifier": 24,
   "clippingMaskMode": 0,
   "do_objectID": "EED47FA0-A16D-42BB-9FCC-4B5802192D84",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,6 +59,10 @@
     {
       "class": "group",
       "id": "B0A933FB-BE49-4FBB-87ED-02AD2AA1A9A7"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "E3CB7F81-1E11-40A8-B3D3-2930067DD021"
     }
   ],
   "name": "molecules / Student sidebar (no classroom joined)",
@@ -68,6 +72,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "D2D0B40E-023D-4AAB-82C5-899DEE347216_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E3CB7F81-1E11-40A8-B3D3-2930067DD021_flowDestination"
     },
     {
       "_class": "MSImmutableOverrideProperty",

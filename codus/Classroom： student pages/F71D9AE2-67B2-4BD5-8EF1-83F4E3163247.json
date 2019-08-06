@@ -27,19 +27,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 52,
+        "length": 172,
         "location": 0
       }
     ],
-    "string": "Future: CTA to subscribe to email notifications here"
+    "string": "“View all” displays if there are no incomplete assignments as long as there are completed assignments. If there are no assignments at all, change header to “No assignments”"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D62DE35D-F3F4-4133-A824-54613772F4AC",
+  "do_objectID": "F71D9AE2-67B2-4BD5-8EF1-83F4E3163247",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "843E115B-11EE-4C2F-B9C1-7A39C0E6607B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
+    "do_objectID": "C7D572F4-0478-43FC-AD02-F7F0C2211370",
+    "height": 110,
     "width": 320,
     "x": 731,
-    "y": 709
+    "y": 544
   },
-  "glyphBounds": "{{1, 4}, {261, 37}}",
+  "glyphBounds": "{{0, 4}, {317, 106}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -76,14 +78,16 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
+      "do_objectID": "BEB84618-A596-4599-855C-535EF086CBF6",
       "opacity": 0.4000000059604645
     },
-    "do_objectID": "43B3B04A-5CB5-47E6-B2F2-E1B316581262",
+    "do_objectID": "C8253011-D371-47F9-B27A-D1B6E9034483",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "B0DDC52B-DB80-4B74-99FD-86FE0C63D812",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

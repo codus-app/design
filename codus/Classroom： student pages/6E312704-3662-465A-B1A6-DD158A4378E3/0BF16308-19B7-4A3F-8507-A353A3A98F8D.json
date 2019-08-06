@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F7289A4F-60C6-467F-94C6-109D3F6B098D",
+  "do_objectID": "0BF16308-19B7-4A3F-8507-A353A3A98F8D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -28,27 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "molecules / Student sidebar (no classroom joined)",
+  "name": "molecules / Student sidebar",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "64848FFF-11B1-403C-99CC-524F78B31137",
-      "overrideName": "B99218EA-400C-4661-B118-7A7676C94E46_stringValue",
-      "value": "Classroom"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "44912BA8-EF6F-4FE6-B77D-3F9211C4D8D1",
-      "overrideName": "5033E877-6E32-4EBB-954A-C65378661BAD_stringValue",
-      "value": " "
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "37426A7B-B59F-4D47-A33F-B49A65DD3313",
-      "overrideName": "E3CB7F81-1E11-40A8-B3D3-2930067DD021_flowDestination",
-      "value": ""
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -62,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "02FF2806-EECE-40E9-A0BA-277D8128E66C",
+  "symbolID": "C5F5D3AF-112F-4C59-8AD4-276D63E5FE5C",
   "verticalSpacing": 0
 }

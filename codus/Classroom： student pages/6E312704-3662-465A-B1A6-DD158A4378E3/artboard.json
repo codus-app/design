@@ -4,15 +4,26 @@
     "_class": "color",
     "alpha": 1,
     "blue": 0.1294117647058823,
+    "do_objectID": "4AC0C844-89BD-4D2C-9448-64644FFAD70F",
     "green": 0.1176470588235294,
     "red": 0.1176470588235294
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "12DE440D-7CFE-4094-833E-25AE608CA8F7",
+  "do_objectID": "6E312704-3662-465A-B1A6-DD158A4378E3",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A8F22628-FE0A-41D6-8833-28362A6836E5",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -22,22 +33,24 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "44CA7567-FCCB-407F-95F3-62C93600F09A",
     "height": 850,
     "width": 1280,
     "x": -579,
-    "y": 453
+    "y": 1403
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6107DF97-1160-4A0B-8268-53B59EFB78CE"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "E57E2F6D-EA7A-475C-9372-25A5F55FC126",
     "guides": [
-      555
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -52,46 +65,42 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "AE82A11C-3F7B-4AF9-9F9C-029F6EE15DB2"
+      "id": "0BF16308-19B7-4A3F-8507-A353A3A98F8D"
     },
     {
       "class": "symbolInstance",
-      "id": "AF5196E4-4284-4D4A-BC96-057360E9F874"
+      "id": "3240DF3D-5E3D-485E-A7CE-609E29C31427"
     },
     {
       "class": "group",
-      "id": "EB790F58-6B16-49B3-8E50-653F5ABF2E6C"
-    },
-    {
-      "class": "group",
-      "id": "58C5B933-01B4-437F-A2D5-019701A05B4B"
-    },
-    {
-      "class": "group",
-      "id": "5BB51A00-E660-4D04-A692-DDB3D3A9B85D"
-    },
-    {
-      "class": "group",
-      "id": "733C5252-D285-4EB6-BB79-1975A235724B"
+      "id": "2AE1F39E-4B45-49AF-A9BE-C922B27FE8E6"
     },
     {
       "class": "symbolInstance",
-      "id": "DFE96A59-ED41-4196-A05E-61E24A673FF9"
+      "id": "96AF60EB-EC18-4619-961B-52EF86795362"
     },
     {
       "class": "text",
-      "id": "F4A49483-E9B7-4257-8221-28EC8DB95679"
+      "id": "B9B24499-2B01-45A3-9C5C-2689B430C771"
     }
   ],
-  "name": "Classroom overview",
+  "name": "Assignments (empty)",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 850,
+    "name": "standard web",
+    "offersLandscapeVariant": 0,
+    "width": 1280
+  },
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "DEABD8A9-9130-4026-905D-D5B84E366BE4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -100,6 +109,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "74E3F7BB-3E6C-4171-8D19-AE5FD3A89391",
     "guides": [
     ]
   }
