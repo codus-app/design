@@ -33,7 +33,7 @@
     "constrainProportions": false,
     "height": 850,
     "width": 1280,
-    "x": 3561,
+    "x": 2181,
     "y": 2353
   },
   "groupLayout": {
@@ -63,7 +63,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -112,10 +112,6 @@
     {
       "class": "group",
       "id": "A26A76E0-AD01-428E-9258-0838A1E48571"
-    },
-    {
-      "class": "group",
-      "id": "9347F680-9961-463C-812D-CB2AA4F7D4C8"
     },
     {
       "class": "group",

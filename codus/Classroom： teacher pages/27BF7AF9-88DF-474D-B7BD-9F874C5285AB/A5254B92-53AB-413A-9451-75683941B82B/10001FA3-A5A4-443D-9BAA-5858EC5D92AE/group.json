@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 60,
-    "width": 308,
+    "height": 139,
+    "width": 442,
     "x": 0,
     "y": 0
   },
@@ -30,8 +30,16 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "text",
+      "id": "D25FC088-1946-4C99-9ECA-ADC34614A85D"
+    },
+    {
+      "class": "text",
+      "id": "D0EE3E5F-7CA3-4BD5-978F-EF9106229FD7"
+    },
     {
       "class": "text",
       "id": "651530DD-742E-42D0-8C84-4867061BCFBA"
